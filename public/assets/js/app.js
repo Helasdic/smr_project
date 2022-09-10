@@ -6,17 +6,17 @@
  * Author URL: http://graphberry.com
  * License: http://graphberry.com/pages/license
  */
- jQuery(document).ready(function ($) {
+jQuery(document).ready(function ($) {
 
     var lastId,
-    topMenu = $("#top-navigation"),
-    topMenuHeight = topMenu.outerHeight(),
+        topMenu = $("#top-navigation"),
+        topMenuHeight = topMenu.outerHeight(),
         // All list items
         menuItems = topMenu.find("a"),
         // Anchors corresponding to menu items
         scrollItems = menuItems.map(function () {
             var href = $(this).attr("href");
-            if(href.indexOf("#") === 0){
+            if (href.indexOf("#") === 0) {
                 var item = $($(this).attr("href"));
                 if (item.length) {
                     return item;
@@ -100,8 +100,8 @@
             lastId = id;
             // Set/remove active class
             menuItems
-            .parent().removeClass("active")
-            .end().filter("[href=#" + id + "]").parent().addClass("active");
+                .parent().removeClass("active")
+                .end().filter("[href=#" + id + "]").parent().addClass("active");
         }
     });
 
@@ -123,7 +123,7 @@
         $('a[href*=#]').each(function () {
             if (filterPath(location.pathname) == filterPath(this.pathname) && location.hostname == this.hostname && this.hash.replace(/#/, '')) {
                 var $targetId = $(this.hash),
-                $targetAnchor = $('[name=' + this.hash.slice(1) + ']');
+                    $targetAnchor = $('[name=' + this.hash.slice(1) + ']');
                 var $target = $targetId.length ? $targetId : $targetAnchor.length ? $targetAnchor : false;
 
                 if ($target) {
@@ -143,7 +143,7 @@
                 }
             }
         });
-});
+    });
 
     /*
     Sand newsletter
@@ -191,7 +191,7 @@
     /*
 Sand mail
 **********************************************************************/
-$("#send-mail").click(function () {
+    $("#send-mail").click(function () {
 
         var name = $('input#name').val(); // get the value of the input field
         var error = false;
@@ -297,7 +297,7 @@ $("#send-mail").click(function () {
     /************************
     Animate elements
     *************************/
-    
+
     //Animate thumbnails 
     jQuery('.thumbnail').one('inview', function (event, visible) {
         if (visible == true) {
@@ -315,7 +315,7 @@ $("#send-mail").click(function () {
             jQuery(this).removeClass("animated fadeInDown");
         }
     });
-    
+
     //animate first team member
     jQuery('#first-person').bind('inview', function (event, visible) {
         if (visible == true) {
@@ -324,7 +324,7 @@ $("#send-mail").click(function () {
             jQuery('#first-person').removeClass("animated pulse");
         }
     });
-    
+
     //animate sectond team member
     jQuery('#second-person').bind('inview', function (event, visible) {
         if (visible == true) {
@@ -342,7 +342,7 @@ $("#send-mail").click(function () {
             jQuery('#third-person').removeClass("animated pulse");
         }
     });
-    
+
     //Animate price columns
     jQuery('.price-column, .testimonial').bind('inview', function (event, visible) {
         if (visible == true) {
@@ -351,7 +351,7 @@ $("#send-mail").click(function () {
             jQuery(this).removeClass("animated fadeInDown");
         }
     });
-    
+
     //Animate contact form
     jQuery('.contact-form').bind('inview', function (event, visible) {
         if (visible == true) {

@@ -1039,7 +1039,7 @@
     <script type="text/javascript" src="{{ url('assets/js/jquery.bxslider.js') }}"></script>
     <script type="text/javascript" src="{{ url('assets/js/jquery.cslider.js') }}"></script>
     <script type="text/javascript" src="{{ url('assets/js/jquery.placeholder.js') }}"></script>
-    <script type="text/javascript" src="{{ url('asssets/js/jquery.inview.js') }}"></script>
+    <script type="text/javascript" src="{{ url('assets/js/jquery.inview.js') }}"></script>
     <script type="text/javascript" src="{{ url('assets/js/app.js') }}"></script>
 </body>
 @vite('assets/js/app.js')
