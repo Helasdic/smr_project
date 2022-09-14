@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '287dc69b9a01d5a65f6546fa716561c93924f3c4',
+        'reference' => '4104125ef8b9b972d3a6acb89e8171f0f6db313f',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -355,6 +355,15 @@
                 0 => '*',
             ),
         ),
+        'laravel/breeze' => array(
+            'pretty_version' => 'v1.13.0',
+            'version' => '1.13.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../laravel/breeze',
+            'aliases' => array(),
+            'reference' => '3b601e881820c36dc0252cc5fa6c4131a8e5734d',
+            'dev_requirement' => false,
+        ),
         'laravel/framework' => array(
             'pretty_version' => 'v9.29.0',
             'version' => '9.29.0.0',
@@ -370,7 +379,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '287dc69b9a01d5a65f6546fa716561c93924f3c4',
+            'reference' => '4104125ef8b9b972d3a6acb89e8171f0f6db313f',
             'dev_requirement' => false,
         ),
         'laravel/pint' => array(
@@ -416,6 +425,15 @@
             'install_path' => __DIR__ . '/../laravel/tinker',
             'aliases' => array(),
             'reference' => 'dff39b661e827dae6e092412f976658df82dbac5',
+            'dev_requirement' => false,
+        ),
+        'laravel/ui' => array(
+            'pretty_version' => 'v4.0.1',
+            'version' => '4.0.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../laravel/ui',
+            'aliases' => array(),
+            'reference' => 'c43d29941ee8f41547572968123eadbd81392841',
             'dev_requirement' => false,
         ),
         'league/commonmark' => array(
@@ -709,8 +727,8 @@
         'psr/log-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0|2.0|3.0',
-                1 => '1.0.0 || 2.0.0 || 3.0.0',
+                0 => '1.0.0 || 2.0.0 || 3.0.0',
+                1 => '1.0|2.0|3.0',
             ),
         ),
         'psr/simple-cache' => array(
