@@ -1,7 +1,7 @@
 <div class="top-header">
     <div class="container-fluid">
         <div class="logo">
-            <a href="{{ route('home') }}">
+            <a href="{{ url('/') }}">
                 <img src="{{ asset('/assets/images/icons/ic-logo-01.png') }}" alt="Consulting" />
             </a>
         </div>

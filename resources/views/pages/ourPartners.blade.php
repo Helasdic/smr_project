@@ -8,56 +8,56 @@
     <div class="icon-box icon-box-3">
         <div class="icon">
             <a href="about-partnerships.html">
-                <img src="images/partner-01.png" alt="our partner" />
+                <img src="assets/images/partner-01.png" alt="our partner" />
             </a>
         </div>
     </div>
     <div class="icon-box icon-box-3">
         <div class="icon">
             <a href="about-partnerships.html">
-                <img src="images/partner-02.png" alt="our partner" />
+                <img src="assets/images/partner-02.png" alt="our partner" />
             </a>
         </div>
     </div>
     <div class="icon-box icon-box-3">
         <div class="icon">
             <a href="about-partnerships.html">
-                <img src="images/partner-03.png" alt="our partner" />
+                <img src="assets/images/partner-03.png" alt="our partner" />
             </a>
         </div>
     </div>
     <div class="icon-box icon-box-3">
         <div class="icon">
             <a href="about-partnerships.html">
-                <img src="images/partner-04.png" alt="our partner" />
+                <img src="assets/images/partner-04.png" alt="our partner" />
             </a>
         </div>
     </div>
     <div class="icon-box icon-box-3">
         <div class="icon">
             <a href="about-partnerships.html">
-                <img src="images/partner-05.png" alt="our partner" />
+                <img src="assets/images/partner-05.png" alt="our partner" />
             </a>
         </div>
     </div>
     <div class="icon-box icon-box-3">
         <div class="icon">
             <a href="about-partnerships.html">
-                <img src="images/partner-06.png" alt="our partner" />
+                <img src="assets/images/partner-06.png" alt="our partner" />
             </a>
         </div>
     </div>
     <div class="icon-box icon-box-3">
         <div class="icon">
             <a href="about-partnerships.html">
-                <img src="images/partner-07.png" alt="our partner" />
+                <img src="assets/images/partner-07.png" alt="our partner" />
             </a>
         </div>
     </div>
     <div class="icon-box icon-box-3">
         <div class="icon">
             <a href="about-partnerships.html">
-                <img src="images/partner-08.png" alt="our partner" />
+                <img src="assets/images/partner-08.png" alt="our partner" />
             </a>
         </div>
     </div>

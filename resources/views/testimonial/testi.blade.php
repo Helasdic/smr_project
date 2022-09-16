@@ -7,7 +7,7 @@
         <div class="card-top">
             <div class="avatar">
                 <a href="#">
-                    <img src="images/avatar-01.jpg" alt="Ann Gilbert" />
+                    <img src="{{ asset('assets/images/avatar-01.jpg') }}" alt="Ann Gilbert" />
                 </a>
             </div>
             <div class="info">
@@ -26,7 +26,7 @@
         <div class="card-top">
             <div class="avatar">
                 <a href="#">
-                    <img src="images/avatar-02.jpg" alt="Kevin Cater" />
+                    <img src="{{ asset('assets/images/avatar-02.jpg') }}" alt="Kevin Cater" />
                 </a>
             </div>
             <div class="info">
@@ -45,7 +45,7 @@
         <div class="card-top">
             <div class="avatar">
                 <a href="#">
-                    <img src="images/avatar-03.jpg" alt="Jacob Graham" />
+                    <img src="{{ asset('assets/images/avatar-03.jpg') }}" alt="Jacob Graham" />
                 </a>
             </div>
             <div class="info">
@@ -64,7 +64,7 @@
         <div class="card-top">
             <div class="avatar">
                 <a href="#">
-                    <img src="images/avatar-01.jpg" alt="Ann Gilbert" />
+                    <img src="{{ asset('assets/images/avatar-01.jpg') }}" alt="Ann Gilbert" />
                 </a>
             </div>
             <div class="info">
@@ -83,7 +83,7 @@
         <div class="card-top">
             <div class="avatar">
                 <a href="#">
-                    <img src="images/avatar-02.jpg" alt="Kevin Cater" />
+                    <img src="{{ asset('assets/images/avatar-02.jpg') }}" alt="Kevin Cater" />
                 </a>
             </div>
             <div class="info">
@@ -102,7 +102,7 @@
         <div class="card-top">
             <div class="avatar">
                 <a href="#">
-                    <img src="images/avatar-03.jpg" alt="Jacob Graham" />
+                    <img src="{{ asset('assets/images/avatar-03.jpg') }}" alt="Jacob Graham" />
                 </a>
             </div>
             <div class="info">

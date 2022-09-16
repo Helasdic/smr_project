@@ -36,7 +36,7 @@
         <div class="block-left">
             <div class="logo">
                 <a href="index.html">
-                    <img src="images/icons/ic-logo-01.png" alt="Consulting" />
+                    <img src="{{ asset('assets/images/icons/ic-logo-01.png') }}" alt="Consulting" />
                 </a>
             </div>
         </div>

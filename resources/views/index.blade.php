@@ -25,7 +25,7 @@
         </div>
     </section>
     <section class="section why-choose-us-section-1 bg-cover p-t-90 p-b-75 bg-cover js-waypoint"
-        style="background: url(&quot;images/why-choose-us-01.jpg&quot;) center center no-repeat;">
+        style="background: url(&quot;assets/images/why-choose-us-01.jpg&quot;) center center no-repeat;">
         <div class="container">
             <div class="row">
                 @include('pages.whychooseus')
@@ -39,15 +39,16 @@
             </div>
         </div>
     </section>
+
     <div class="section bg-parallax p-t-100 p-b-70 bg-cover"
-        style="background: url(&quot;images/statistic-01.jpg&quot;) center center no-repeat;"
+        style="background: url(&quot;assets/images/statistic-01.jpg&quot;) center center no-repeat;"
         data-paroller-type="background" data-paroller-factor="-0.3" data-paroller-direction="vertical">
         @include('pages.parallax')
     </div>
+
+
     <div class="section bg-black p-t-80 p-b-80">
-        <div class="container">
-            @include('pages.email')
-        </div>
+        @include('pages.email')
     </div>
     <section class="section bg-white p-t-60 p-b-50">
         <div class="container">
@@ -56,8 +57,9 @@
             </div>
         </div>
     </section>
-    <div class="section bg-parallax p-t-120 p-b-120" style="background: url(&quot;images/banner-01.jpg&quot;) no-repeat;"
-        data-paroller-type="background" data-paroller-factor="-0.3" data-paroller-direction="vertical">
+    <div class="section bg-parallax p-t-120 p-b-120"
+        style="background: url(&quot;assets/images/banner-01.jpg&quot;) no-repeat;" data-paroller-type="background"
+        data-paroller-factor="-0.3" data-paroller-direction="vertical">
         @include('pages.bg-parallax')
     </div>
     <section class="section p-t-70 p-b-30 bg-white">

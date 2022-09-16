@@ -63,7 +63,7 @@
     Javascripts
     ==================================================
     -->
-    @vite('assets/vendor/js/main.js')
+    @vite('resources/js/app.js')
     <script src="{{ asset('assets/vendor/jquery/dist/jquery.min.js') }}"></script>
     <script src="{{ asset('assets/vendor/bootstrap/dist/js/bootstrap.min.js') }}"></script>
     <script src="{{ asset('assets/vendor/bootstrap-progressbar/bootstrap-progressbar.min.js') }}"></script>
