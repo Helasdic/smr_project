@@ -14,7 +14,7 @@
                 <div class="block-left">
                     <div class="logo-mobile">
                         <a href="index.html">
-                            <img src="assets/images/Paten2.png" alt="Consulting">
+                            <img src="assets/images/Paten1 (2).png" alt="Consulting">
                         </a>
                     </div>
                     <nav>
