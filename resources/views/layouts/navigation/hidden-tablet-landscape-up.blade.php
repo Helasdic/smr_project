@@ -21,7 +21,7 @@
 <div class="au-navbar-mobile navbar-mobile-1">
     <ul class="au-navbar-menu">
         <li class="drop">
-            <a href="#">Home</a>
+            <a href="{{ url('/') }}">Home</a>
             <span class="arrow">
                 <i></i>
             </span>

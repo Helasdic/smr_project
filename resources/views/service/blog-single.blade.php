@@ -109,7 +109,7 @@
                         <div class="post-author bg-grey-light m-b-60">
                             <div class="avatar">
                                 <a href="#">
-                                    <img src="images/avatar-04.jpg" alt="post author">
+                                    <img src="assets/images/avatar-04.jpg" alt="post author">
                                 </a>
                             </div>
                             <div class="content">
@@ -126,7 +126,7 @@
                                 <li class="comments-has-child">
                                     <div class="comments-item">
                                         <div class="author-image">
-                                            <img src="images/avatar-05.jpg" alt="author image">
+                                            <img src="assets/images/avatar-05.jpg" alt="author image">
                                         </div>
                                         <div class="comment-content">
                                             <p class="content">Phasellus rutrum sollicitudin nisl, at egestas tortor
@@ -146,7 +146,7 @@
                                         <li>
                                             <div class="comments-item">
                                                 <div class="author-image">
-                                                    <img src="images/avatar-04.jpg" alt="author image">
+                                                    <img src="assets/images/avatar-04.jpg" alt="author image">
                                                 </div>
                                                 <div class="comment-content">
                                                     <p class="content">Nullam ipsum urna, dapibus sed justo sed, imperdiet
@@ -167,7 +167,7 @@
                                 <li>
                                     <div class="comments-item">
                                         <div class="author-image">
-                                            <img src="images/avatar-06.jpg" alt="author image">
+                                            <img src="assets/images/avatar-06.jpg" alt="author image">
                                         </div>
                                         <div class="comment-content">
                                             <p class="content">Donec sollicitudin nisi sed eros elementum, non vestibulum
@@ -239,65 +239,66 @@
                     <h4 class="text-block text-bold text-med m-b-40">Most Popular</h4>
                     <div class="image-card image-card-9">
                         <div class="image">
-                            <a href="blog-single.html">
-                                <img src="images/post-popular-01.jpg" alt="Leading Change Effectively" />
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/post-popular-01.jpg" alt="Leading Change Effectively" />
                             </a>
                         </div>
                         <div class="content">
                             <h3 class="title">
-                                <a href="blog-single.html">Leading Change Effectively</a>
+                                <a href="{{ url('/single-blog') }}">Leading Change Effectively</a>
                             </h3>
                             <span class="subtitle">3 days ago</span>
                         </div>
                     </div>
                     <div class="image-card image-card-9">
                         <div class="image">
-                            <a href="blog-single.html">
-                                <img src="images/post-popular-02.jpg" alt="Renewable energy companies" />
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/post-popular-02.jpg" alt="Renewable energy companies" />
                             </a>
                         </div>
                         <div class="content">
                             <h3 class="title">
-                                <a href="blog-single.html">Renewable energy companies</a>
+                                <a href="{{ url('/single-blog') }}">Renewable energy companies</a>
                             </h3>
                             <span class="subtitle">July 2, 2017</span>
                         </div>
                     </div>
                     <div class="image-card image-card-9">
                         <div class="image">
-                            <a href="blog-single.html">
-                                <img src="images/post-popular-03.jpg" alt="How to Make Leaders More Effective" />
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/post-popular-03.jpg" alt="How to Make Leaders More Effective" />
                             </a>
                         </div>
                         <div class="content">
                             <h3 class="title">
-                                <a href="blog-single.html">How to Make Leaders More Effective</a>
+                                <a href="{{ url('/single-blog') }}">How to Make Leaders More Effective</a>
                             </h3>
                             <span class="subtitle">May 28, 2017</span>
                         </div>
                     </div>
                     <div class="image-card image-card-9">
                         <div class="image">
-                            <a href="blog-single.html">
-                                <img src="images/post-popular-04.jpg" alt="Consumer Products and Services" />
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/post-popular-04.jpg" alt="Consumer Products and Services" />
                             </a>
                         </div>
                         <div class="content">
                             <h3 class="title">
-                                <a href="blog-single.html">Consumer Products and Services</a>
+                                <a href="{{ url('/single-blog') }}">Consumer Products and Services</a>
                             </h3>
                             <span class="subtitle">May 25, 2017</span>
                         </div>
                     </div>
                     <div class="image-card image-card-9">
                         <div class="image">
-                            <a href="blog-single.html">
-                                <img src="images/post-popular-05.jpg" alt="The Things to Do in New York City 2017" />
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/post-popular-05.jpg"
+                                    alt="The Things to Do in New York City 2017" />
                             </a>
                         </div>
                         <div class="content">
                             <h3 class="title">
-                                <a href="blog-single.html">The Things to Do in New York City 2017</a>
+                                <a href="{{ url('/single-blog') }}">The Things to Do in New York City 2017</a>
                             </h3>
                             <span class="subtitle">May 2, 2017</span>
                         </div>

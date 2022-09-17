@@ -1,185 +1,236 @@
-<div class="heading-section heading-section-1 light">
-    <h3>Pelayanan Kami</h3>
-</div>
-<div class="owl-carousel nav-style-1" data-carousel-margin="45" data-carousel-nav="true" data-carousel-loop="true">
-    <div class="image-card image-card-1 light">
-        <div class="image">
-            <a href="{{ url('single-blog') }}">
-                <img src="{{ asset('assets/images/services-01.jpg') }}" alt="Corporate Finance" />
-            </a>
-        </div>
-        <h3 class="title">
-            <a href="{{ url('single-blog') }}">Corporate Finance</a>
-        </h3>
-        <div class="content">
-            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
-                eget tortor tempor, quis porta tellus dictum.</p>
-        </div>
-        <div class="link">
-            <a href="{{ url('single-blog') }}">
-                <i class="fa fa-caret-right"></i>
-                <span>Learn More</span>
-            </a>
+@extends('layouts.base')
+
+@section('content')
+    <div class="heading-page heading-page-1 bg-cover"
+        style="background: url(assets/images/heading-page-01.jpg) center center no-repeat;">
+        <div class="container">
+            <ul class="breadcrumbs">
+                <li>
+                    <a href="{{ url('/') }}">Home</a>
+                </li>
+                <li>
+                    <a href="{{ url('/services') }}">Services</a>
+                </li>
+            </ul>
+            <h3 class="title">Services</h3>
         </div>
     </div>
-    <div class="image-card image-card-1 light">
-        <div class="image">
-            <a href="{{ url('single-blog') }}">
-                <img src="{{ asset('assets/images/services-02.jpg') }}" alt="Information Technology" />
-            </a>
-        </div>
-        <h3 class="title">
-            <a href="{{ url('single-blog') }}">Information Technology</a>
-        </h3>
-        <div class="content">
-            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
-                eget tortor tempor, quis porta tellus dictum.</p>
-        </div>
-        <div class="link">
-            <a href="{{ url('single-blog') }}">
-                <i class="fa fa-caret-right"></i>
-                <span>Learn More</span>
-            </a>
+    <!-- Heading page / end-->
+    <!-- Image card / start-->
+    <div class="section bg-white p-t-70 p-b-40">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="image-card image-card-1 dark">
+                        <div class="image">
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/services-07.jpg" alt="Consumer Products Consulting" />
+                            </a>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ url('/single-blog') }}">Consumer Products Consulting</a>
+                        </h3>
+                        <div class="content">
+                            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula eget
+                                tortor tempor, quis porta tellus dictum.</p>
+                        </div>
+                        <div class="link">
+                            <a href="{{ url('/single-blog') }}">
+                                <i class="fa fa-caret-right"></i>
+                                <span>Learn More</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="image-card image-card-1 dark">
+                        <div class="image">
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/services-08.jpg" alt="Financial Services Consulting" />
+                            </a>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ url('/single-blog') }}">Financial Services Consulting</a>
+                        </h3>
+                        <div class="content">
+                            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula eget
+                                tortor tempor, quis porta tellus dictum.</p>
+                        </div>
+                        <div class="link">
+                            <a href="{{ url('/single-blog') }}">
+                                <i class="fa fa-caret-right"></i>
+                                <span>Learn More</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="image-card image-card-1 dark">
+                        <div class="image">
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/services-09.jpg" alt="Business Consulting" />
+                            </a>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ url('/single-blog') }}">Business Consulting</a>
+                        </h3>
+                        <div class="content">
+                            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula eget
+                                tortor tempor, quis porta tellus dictum.</p>
+                        </div>
+                        <div class="link">
+                            <a href="{{ url('/single-blog') }}">
+                                <i class="fa fa-caret-right"></i>
+                                <span>Learn More</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="image-card image-card-1 dark">
+                        <div class="image">
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/services-05.jpg" alt="Private Equity Consulting" />
+                            </a>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ url('/single-blog') }}">Private Equity Consulting</a>
+                        </h3>
+                        <div class="content">
+                            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula eget
+                                tortor tempor, quis porta tellus dictum.</p>
+                        </div>
+                        <div class="link">
+                            <a href="{{ url('/single-blog') }}">
+                                <i class="fa fa-caret-right"></i>
+                                <span>Learn More</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="image-card image-card-1 dark">
+                        <div class="image">
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/services-04.jpg" alt="Tax Planning" />
+                            </a>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ url('/single-blog') }}">Tax Planning</a>
+                        </h3>
+                        <div class="content">
+                            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula eget
+                                tortor tempor, quis porta tellus dictum.</p>
+                        </div>
+                        <div class="link">
+                            <a href="{{ url('/single-blog') }}">
+                                <i class="fa fa-caret-right"></i>
+                                <span>Learn More</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="image-card image-card-1 dark">
+                        <div class="image">
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/services-06.jpg" alt="Strategy Consulting" />
+                            </a>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ url('/single-blog') }}">Strategy Consulting</a>
+                        </h3>
+                        <div class="content">
+                            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula eget
+                                tortor tempor, quis porta tellus dictum.</p>
+                        </div>
+                        <div class="link">
+                            <a href="{{ url('/single-blog') }}">
+                                <i class="fa fa-caret-right"></i>
+                                <span>Learn More</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="image-card image-card-1 dark">
+                        <div class="image">
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/services-03.jpg" alt="Insurance Consulting" />
+                            </a>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ url('/single-blog') }}">Insurance Consulting</a>
+                        </h3>
+                        <div class="content">
+                            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula eget
+                                tortor tempor, quis porta tellus dictum.</p>
+                        </div>
+                        <div class="link">
+                            <a href="{{ url('/single-blog') }}">
+                                <i class="fa fa-caret-right"></i>
+                                <span>Learn More</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="image-card image-card-1 dark">
+                        <div class="image">
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/services-02.jpg" alt="Information Technology" />
+                            </a>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ url('/single-blog') }}">Information Technology</a>
+                        </h3>
+                        <div class="content">
+                            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula eget
+                                tortor tempor, quis porta tellus dictum.</p>
+                        </div>
+                        <div class="link">
+                            <a href="{{ url('/single-blog') }}">
+                                <i class="fa fa-caret-right"></i>
+                                <span>Learn More</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="image-card image-card-1 dark">
+                        <div class="image">
+                            <a href="{{ url('/single-blog') }}">
+                                <img src="assets/images/services-01.jpg" alt="Corporate Finance" />
+                            </a>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ url('/single-blog') }}">Corporate Finance</a>
+                        </h3>
+                        <div class="content">
+                            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula eget
+                                tortor tempor, quis porta tellus dictum.</p>
+                        </div>
+                        <div class="link">
+                            <a href="{{ url('/single-blog') }}">
+                                <i class="fa fa-caret-right"></i>
+                                <span>Learn More</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="image-card image-card-1 light">
-        <div class="image">
-            <a href="{{ url('single-blog') }}">
-                <img src="{{ asset('assets/images/services-03.jpg') }}" alt="Insurance Consulting" />
-            </a>
-        </div>
-        <h3 class="title">
-            <a href="{{ url('single-blog') }}">Insurance Consulting</a>
-        </h3>
-        <div class="content">
-            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
-                eget tortor tempor, quis porta tellus dictum.</p>
-        </div>
-        <div class="link">
-            <a href="{{ url('single-blog') }}">
-                <i class="fa fa-caret-right"></i>
-                <span>Learn More</span>
-            </a>
+    <!-- Image card / end-->
+    <!-- call to action / start-->
+    <div class="section bg-primary p-t-25 p-b-25 cta-section-1 cta-section-2">
+        <div class="container">
+            <div class="block-left">
+                <p class="text-block text-med">Looking for a first-class financial advisor?</p>
+            </div>
+            <div class="block-right">
+                <a class="au-btn au-btn-border au-btn-border-light" href="#">Get A Free Quote</a>
+            </div>
         </div>
     </div>
-    <div class="image-card image-card-1 light">
-        <div class="image">
-            <a href="{{ url('single-blog') }}">
-                <img src="{{ asset('assets/images/services-06.jpg') }}" alt="Strategy Consulting" />
-            </a>
-        </div>
-        <h3 class="title">
-            <a href="{{ url('single-blog') }}">Strategy Consulting</a>
-        </h3>
-        <div class="content">
-            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
-                eget tortor tempor, quis porta tellus dictum.</p>
-        </div>
-        <div class="link">
-            <a href="{{ url('single-blog') }}">
-                <i class="fa fa-caret-right"></i>
-                <span>Learn More</span>
-            </a>
-        </div>
-    </div>
-    <div class="image-card image-card-1 light">
-        <div class="image">
-            <a href="{{ url('single-blog') }}">
-                <img src="{{ asset('assets/images/services-04.jpg') }}" alt="Tax Planning" />
-            </a>
-        </div>
-        <h3 class="title">
-            <a href="{{ url('single-blog') }}">Tax Planning</a>
-        </h3>
-        <div class="content">
-            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
-                eget tortor tempor, quis porta tellus dictum.</p>
-        </div>
-        <div class="link">
-            <a href="{{ url('single-blog') }}">
-                <i class="fa fa-caret-right"></i>
-                <span>Learn More</span>
-            </a>
-        </div>
-    </div>
-    <div class="image-card image-card-1 light">
-        <div class="image">
-            <a href="{{ url('single-blog') }}">
-                <img src="{{ asset('assets/images/services-05.jpg') }}" alt="Private Equity Consulting" />
-            </a>
-        </div>
-        <h3 class="title">
-            <a href="{{ url('single-blog') }}">Private Equity Consulting</a>
-        </h3>
-        <div class="content">
-            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
-                eget tortor tempor, quis porta tellus dictum.</p>
-        </div>
-        <div class="link">
-            <a href="{{ url('single-blog') }}">
-                <i class="fa fa-caret-right"></i>
-                <span>Learn More</span>
-            </a>
-        </div>
-    </div>
-    <div class="image-card image-card-1 light">
-        <div class="image">
-            <a href="{{ url('single-blog') }}">
-                <img src="assets/images/services-09.jpg" alt="Business Consulting" />
-            </a>
-        </div>
-        <h3 class="title">
-            <a href="{{ url('single-blog') }}">Business Consulting</a>
-        </h3>
-        <div class="content">
-            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
-                eget tortor tempor, quis porta tellus dictum.</p>
-        </div>
-        <div class="link">
-            <a href="{{ url('single-blog') }}">
-                <i class="fa fa-caret-right"></i>
-                <span>Learn More</span>
-            </a>
-        </div>
-    </div>
-    <div class="image-card image-card-1 light">
-        <div class="image">
-            <a href="{{ url('single-blog') }}">
-                <img src="assets/images/services-08.jpg" alt="Financial Services Consulting" />
-            </a>
-        </div>
-        <h3 class="title">
-            <a href="{{ url('single-blog') }}">Financial Services Consulting</a>
-        </h3>
-        <div class="content">
-            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
-                eget tortor tempor, quis porta tellus dictum.</p>
-        </div>
-        <div class="link">
-            <a href="{{ url('single-blog') }}">
-                <i class="fa fa-caret-right"></i>
-                <span>Learn More</span>
-            </a>
-        </div>
-    </div>
-    <div class="image-card image-card-1 light">
-        <div class="image">
-            <a href="{{ url('single-blog') }}">
-                <img src="assets/images/services-07.jpg" alt="Consumer Products Consulting" />
-            </a>
-        </div>
-        <h3 class="title">
-            <a href="{{ url('single-blog') }}">Consumer Products Consulting</a>
-        </h3>
-        <div class="content">
-            <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
-                eget tortor tempor, quis porta tellus dictum.</p>
-        </div>
-        <div class="link">
-            <a href="{{ url('single-blog') }}">
-                <i class="fa fa-caret-right"></i>
-                <span>Learn More</span>
-            </a>
-        </div>
-    </div>
-</div>
+@endsection

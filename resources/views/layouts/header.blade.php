@@ -13,7 +13,7 @@
             <div class="container">
                 <div class="block-left">
                     <div class="logo-mobile">
-                        <a href="index.html">
+                        <a href="{{ url('/') }}">
                             <img src="assets/images/Paten1 (2).png" alt="Consulting">
                         </a>
                     </div>
@@ -21,7 +21,7 @@
                         <div class="au-navbar navbar-1">
                             <ul class="au-navbar-menu">
                                 <li class="drop">
-                                    <a href="#">Home</a>
+                                    <a href="{{ url('/') }}">Home</a>
                                     <ul class="drop-menu bottom-right">
                                         <li>
                                             <a href="index.html">Home Page v1</a>
@@ -44,7 +44,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="about-v3.html">Who we are</a>
+                                    <a href="{{ url('/blog') }}">Who we are</a>
                                 </li>
                                 <li class="drop">
                                     <a href="#">Services</a>
@@ -99,7 +99,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact Us</a>
+                                    <a href="{{ url('/contact') }}">Contact Us</a>
                                 </li>
                                 <li class="drop">
                                     <a href="#">Pages</a>
@@ -160,7 +160,8 @@
                             </div>
                             <div class="icon-box icon-box-4">
                                 <span class="icon icon_pin"></span>
-                                <span>Jl. A.Yani No.2, 1st floor, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141</span>
+                                <span>Jl. A.Yani No.2, 1st floor, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat
+                                    17141</span>
                             </div>
                             {{-- <div class="icon-box icon-box-4">
                                 <span class="icon icon_clock"></span>
@@ -196,7 +197,7 @@
             <div class="container">
                 <div class="block-left">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="{{ url('/') }}">
                             <img src="assets/images/icons/ic-logo-01.png" alt="Consulting">
                         </a>
                     </div>
@@ -206,7 +207,7 @@
                         <div class="au-navbar navbar-1 navbar-2">
                             <ul class="au-navbar-menu">
                                 <li class="drop">
-                                    <a href="#">Home</a>
+                                    <a href="{{ url('/') }}">Home</a>
                                     <ul class="drop-menu bottom-right">
                                         <li>
                                             <a href="index.html">Home Page v1</a>
@@ -284,7 +285,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact Us</a>
+                                    <a href="{{ url('/contact') }}">Contact Us</a>
                                 </li>
                                 <li class="drop">
                                     <a href="#">Pages</a>
@@ -346,7 +347,7 @@
                 <div class="au-navbar-mobile navbar-mobile-1">
                     <ul class="au-navbar-menu">
                         <li class="drop">
-                            <a href="#">Home</a>
+                            <a href="{{ url('/') }}">Home</a>
                             <span class="arrow">
                                 <i></i>
                             </span>
@@ -436,7 +437,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="contact.html">Contact Us</a>
+                            <a href="{{ url('/contact') }}">Contact Us</a>
                         </li>
                         <li class="drop">
                             <a href="#">Pages</a>
