@@ -13,6 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
+
+
+Route::prefix('/')->group(function () {
+    Route::get('/', function () {
+        return view('index');
+    });
+    Route::get('/single-blog', function () {
+        return view('service.blog-single');
+    });
 });
