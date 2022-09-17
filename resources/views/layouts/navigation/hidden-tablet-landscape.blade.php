@@ -35,7 +35,7 @@
     <div class="container">
         <div class="block-left">
             <div class="logo">
-                <a href="index.html">
+                <a href="{{ url('/') }}">
                     <img src="{{ asset('assets/images/icons/ic-logo-01.png') }}" alt="Consulting" />
                 </a>
             </div>
