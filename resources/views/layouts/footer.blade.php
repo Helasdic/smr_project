@@ -48,9 +48,9 @@
                             </div>
                             <div class="contact-list">
                                 <ul>
-                                    <li>Address: 8th floor, 379 Hudson St, New York, NY 10018</li>
-                                    <li>Phone: (+1) 96 716 6879</li>
-                                    <li>Email: contact@site.com</li>
+                                    <li>Address: Jl. A.Yani No.2, 1st floor, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141</li>
+                                    <li>Phone: 021-29462443</li>
+                                    <li>Email: konsultan-smr@gmail.com</li>
                                 </ul>
                             </div>
                         </div>
@@ -88,7 +88,7 @@
             <div class="container">
                 <div class="block-inner p-t-35 p-b-60">
                     <div class="block-left">
-                        <span>© 2017 AuThemes. All rights reserved.</span>
+                        <span>© 2022 Created By By</span>
                     </div>
                     <div class="block-right">
                         <div class="quick-link">

@@ -36,7 +36,7 @@
         <div class="block-left">
             <div class="logo">
                 <a href="index.html">
-                    <img src="{{ asset('assets/images/icons/ic-logo-01.png') }}" alt="Consulting" />
+                    <img src="{{ asset('assets/images/Paten2.png') }}" alt="Consulting" style="width: 200" height="70" />
                 </a>
             </div>
         </div>
@@ -47,8 +47,8 @@
                         <i class="icon_phone"></i>
                     </div>
                     <div class="content">
-                        <p>1-800-123-6889</p>
-                        <p>contact@site.com</p>
+                        <p>021-29462443/+6281290296779</p>
+                        <p>konsultan-smr@gmail.com</p>
                     </div>
                 </div>
                 <div class="icon-box icon-box-1">
@@ -56,11 +56,11 @@
                         <i class="icon_pin"></i>
                     </div>
                     <div class="content">
-                        <p>8th floor, 379 Hudson St</p>
-                        <p>New York, NY 10018</p>
+                        <p>Jl. A.Yani No.2, 1st floor, Marga Jaya,</p>
+                        <p>Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141</p>
                     </div>
                 </div>
-                <div class="icon-box icon-box-1">
+                {{-- <div class="icon-box icon-box-1">
                     <div class="icon">
                         <i class="icon_clock"></i>
                     </div>
@@ -68,7 +68,7 @@
                         <p>09:30 am – 06:00 pm</p>
                         <p>Every Day</p>
                     </div>
-                </div>
+                </div> --}}
                 <a class="hidden-tablet-landscape au-btn au-btn-primary" href="#">Get A Quote</a>
             </div>
         </div>

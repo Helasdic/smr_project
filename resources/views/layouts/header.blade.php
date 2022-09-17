@@ -14,7 +14,7 @@
                 <div class="block-left">
                     <div class="logo-mobile">
                         <a href="index.html">
-                            <img src="assets/images/icons/ic-logo-01.png" alt="Consulting">
+                            <img src="assets/images/Paten2.png" alt="Consulting">
                         </a>
                     </div>
                     <nav>
@@ -156,16 +156,16 @@
                         <div class="block-left">
                             <div class="icon-box icon-box-4">
                                 <span class="icon icon_phone"></span>
-                                <span>1-800-123-6889</span>
+                                <span>021-29462443</span>
                             </div>
                             <div class="icon-box icon-box-4">
                                 <span class="icon icon_pin"></span>
-                                <span>8th floor, 379 Hudson St, New York</span>
+                                <span>Jl. A.Yani No.2, 1st floor, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141</span>
                             </div>
-                            <div class="icon-box icon-box-4">
+                            {{-- <div class="icon-box icon-box-4">
                                 <span class="icon icon_clock"></span>
                                 <span>09:30 am – 06:00 pm</span>
-                            </div>
+                            </div> --}}
                         </div>
                         <div class="block-right">
                             <ul class="horizontal-list">

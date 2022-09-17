@@ -1,5 +1,5 @@
 <div class="heading-section heading-section-1 light">
-    <h3>Our Services</h3>
+    <h3>Pelayanan Kami</h3>
 </div>
 <div class="owl-carousel nav-style-1" data-carousel-margin="45" data-carousel-nav="true" data-carousel-loop="true">
     <div class="image-card image-card-1 light">
