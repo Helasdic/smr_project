@@ -4,7 +4,7 @@
 
 @section('content')
     <div class="heading-page heading-page-1 bg-cover"
-        style="background: url(assets/images/heading-page-04.jpg) center center no-repeat;">
+        style="background: url(assets/images/Paten1 (2).png) center center no-repeat;">
         <div class="container">
             <ul class="breadcrumbs">
                 <li>

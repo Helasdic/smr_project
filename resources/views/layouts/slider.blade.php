@@ -1,7 +1,7 @@
 <ul>
     <li class="item-1" data-transition="fade">
         <!-- MAIN IMAGE-->
-        <img class="rev-slidebg" src="{{ asset('assets/images/wallpaper1.jpg') }}" alt="#" />
+        <img class="rev-slidebg" src="{{ asset('assets/images/1.jpg') }}" alt="#" />
         <h3 class="tp-caption tp-resizeme caption-1"
             data-frames="[{&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:900,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:500,&quot;to&quot;:&quot;y:-50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power2.easeIn&quot;}]"
             data-x="['center']" data-hoffset="['0', '0', '0', '0']" data-y="['middle']" data-voffset="['-100']"
@@ -23,7 +23,7 @@
     </li>
     <li class="item-1" data-transition="fade">
         <!-- MAIN IMAGE-->
-        <img class="rev-slidebg" src="{{ asset('assets/images/wallpaper2.jpg') }}" alt="#" />
+        <img class="rev-slidebg" src="{{ asset('assets/images/2.jpg') }}" alt="#" />
         <h3 class="tp-caption tp-resizeme caption-1"
             data-frames="[{&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:900,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:500,&quot;to&quot;:&quot;y:-50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power2.easeIn&quot;}]"
             data-x="['center']" data-hoffset="['0', '0', '0', '0']" data-y="['middle']" data-voffset="['-100']"
@@ -44,7 +44,7 @@
     </li>
     <li class="item-1" data-transition="fade">
         <!-- MAIN IMAGE-->
-        <img class="rev-slidebg" src="{{ asset('assets/images/wallpaper3.jpg') }}" alt="#" />
+        <img class="rev-slidebg" src="{{ asset('assets/images/3.jpg') }}" alt="#" />
         <h3 class="tp-caption tp-resizeme caption-1"
             data-frames="[{&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:900,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:500,&quot;to&quot;:&quot;y:-50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power2.easeIn&quot;}]"
             data-x="['center']" data-hoffset="['0', '0', '0', '0']" data-y="['middle']" data-voffset="['-100']"
