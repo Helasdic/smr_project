@@ -7,7 +7,7 @@
     ==================================================
     -->
     <meta charset="UTF-8">
-    <title>Smr-Consultant</title>
+    <title>SMR Konsultan</title>
     <meta name="description" content="AuCreative theme tempalte">
     <meta name="author" content="AuCreative">
     <meta name="keywords" content="AuCreative theme template">

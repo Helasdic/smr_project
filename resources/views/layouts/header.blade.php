@@ -23,7 +23,7 @@
                                 <li class="drop">
                                     <a href="{{ url('/') }}">Home</a>
                                     <ul class="drop-menu bottom-right">
-                                        <li>
+                                        {{-- <li>
                                             <a href="index.html">Home Page v1</a>
                                         </li>
                                         <li>
@@ -40,7 +40,7 @@
                                         </li>
                                         <li>
                                             <a href="index5.html">Home Page v6</a>
-                                        </li>
+                                        </li> --}}
                                     </ul>
                                 </li>
                                 <li>
@@ -328,7 +328,7 @@
                     <div class="container-fluid">
                         <div class="logo">
                             <a href="index.html">
-                                <img src="assets/images/icons/ic-logo-01.png" alt="Consulting" />
+                                <img src="assets/images/icons/Paten1 (2).png" alt="Consulting" />
                             </a>
                         </div>
                         <div class="search-widget search-widget-1">
