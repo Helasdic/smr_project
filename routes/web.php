@@ -25,9 +25,9 @@ Route::prefix('/')->group(function () {
     Route::get('/blog', function () {
         return view('about.about');
     });
-    Route::get('/services', function () {
-        return view('service.our-service');
-    });
+    // Route::get('/services', function () {
+    //     return view('service.our-service');
+    // });
     Route::get('/contact', function () {
         return view('pages.contact');
     });

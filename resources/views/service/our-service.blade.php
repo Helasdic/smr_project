@@ -24,7 +24,8 @@
                     <div class="image-card image-card-1 dark">
                         <div class="image">
                             <a href="{{ url('/single-blog') }}">
-                                <img src="assets/images/services-07.jpg" alt="Consumer Products Consulting" />
+                                <img src="{{ asset('assets/images/services-07.jpg') }}"
+                                    alt="Consumer Products Consulting" />
                             </a>
                         </div>
                         <h3 class="title">
@@ -46,7 +47,8 @@
                     <div class="image-card image-card-1 dark">
                         <div class="image">
                             <a href="{{ url('/single-blog') }}">
-                                <img src="assets/images/services-08.jpg" alt="Financial Services Consulting" />
+                                <img src="{{ asset('assets/images/services-08.jpg') }}"
+                                    alt="Financial Services Consulting" />
                             </a>
                         </div>
                         <h3 class="title">
@@ -90,8 +92,7 @@
             </div>
         </div>
     </div>
-    <!-- Image card / end-->
-    <!-- call to action / start-->
+
     <div class="section bg-primary p-t-25 p-b-25 cta-section-1 cta-section-2">
         <div class="container">
             <div class="block-left">
