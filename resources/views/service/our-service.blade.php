@@ -1,5 +1,6 @@
 @extends('layouts.base')
 
+
 @section('content')
     <div class="heading-page heading-page-1 bg-cover"
         style="background: url(assets/images/heading-page-01.jpg) center center no-repeat;">
