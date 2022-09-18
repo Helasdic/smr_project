@@ -24,7 +24,7 @@
             </div>
         </div>
     </section>
-    <section class="section why-choose-us-section-1 bg-cover p-t-90 p-b-75 bg-cover js-waypoint"
+    <section class="section why-choose-us-section-1 p-t-90 p-b-75 bg-cover js-waypoint"
         style="background: url(&quot;assets/images/why-choose-us-01.jpg&quot;) center center no-repeat;">
         <div class="container">
             <div class="row">
