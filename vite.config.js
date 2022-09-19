@@ -13,6 +13,8 @@ export default defineConfig({
                 'resources/routes/**',
                 'routes/**',
                 'resources/views/**',
+                // controllers
+                'app/Http/Controllers/**',
             ],
         })
     ],

@@ -5,7 +5,7 @@
     <div class="image-card image-card-4">
         <div class="image">
             <a href="{{ url('/single-blog') }}">
-                <img src="assets/images/blog-01.jpg" alt="Improve margins and reposition quickly" />
+                <img src="https://picsum.photos/1600/870?random={{ rand(1, 100) }}" alt="image">
             </a>
         </div>
         <div class="date">
@@ -25,7 +25,8 @@
     <div class="image-card image-card-4">
         <div class="image">
             <a href="{{ url('/single-blog') }}">
-                <img src="assets/images/blog-02.jpg" alt="Delight customers and operate faster" />
+                <img src="https://picsum.photos/1600/870?random={{ rand(1, 100) }}" alt="image">
+
             </a>
         </div>
         <div class="date">
@@ -45,7 +46,7 @@
     <div class="image-card image-card-4">
         <div class="image">
             <a href="{{ url('/single-blog') }}">
-                <img src="assets/images/blog-03.jpg" alt="Strategy experience and analytical" />
+                <img src="https://picsum.photos/1600/870?random={{ rand(1, 100) }}" alt="image">
             </a>
         </div>
         <div class="date">
@@ -65,7 +66,7 @@
     <div class="image-card image-card-4">
         <div class="image">
             <a href="{{ url('/single-blog') }}">
-                <img src="assets/images/blog-01.jpg" alt="Improve margins and reposition quickly" />
+                <img src="https://picsum.photos/1600/870?random={{ rand(1, 100) }}" alt="image">
             </a>
         </div>
         <div class="date">
@@ -85,7 +86,8 @@
     <div class="image-card image-card-4">
         <div class="image">
             <a href="{{ url('/single-blog') }}">
-                <img src="assets/images/blog-02.jpg" alt="Delight customers and operate faster" />
+                <img src="https://picsum.photos/1600/870?random={{ rand(1, 100) }}" alt="image">
+
             </a>
         </div>
         <div class="date">
@@ -105,7 +107,7 @@
     <div class="image-card image-card-4">
         <div class="image">
             <a href="{{ url('/single-blog') }}">
-                <img src="assets/images/blog-03.jpg" alt="Strategy experience and analytical" />
+                <img src="https://picsum.photos/1600/870?random={{ rand(1, 100) }}" alt="image">
             </a>
         </div>
         <div class="date">

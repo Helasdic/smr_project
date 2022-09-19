@@ -194,6 +194,7 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
+        MarkSitko\LaravelUnsplash\UnsplashServiceProvider::class,
 
     ],
 
@@ -210,6 +211,7 @@ return [
 
     'aliases' => Facade::defaultAliases()->merge([
         // 'ExampleClass' => App\Example\ExampleClass::class,
+        'Unsplash' => MarkSitko\LaravelUnsplash\Facades\Unsplash::class,
     ])->toArray(),
 
 ];
