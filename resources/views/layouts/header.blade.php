@@ -198,7 +198,7 @@
                 <div class="block-left">
                     <div class="logo">
                         <a href="{{ url('/') }}">
-                            <img src="assets/images/icons/ic-logo-01.png" alt="Consulting">
+                            <img src="assets/images/Paten2.png" alt="Consulting">
                         </a>
                     </div>
                 </div>
