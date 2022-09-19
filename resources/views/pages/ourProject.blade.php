@@ -1,5 +1,5 @@
 <div class="heading-section heading-section-1 dark">
-    <h3>Our Projects</h3>
+    <h3>Proyek Kami</h3>
 </div>
 <div class="owl-carousel dark nav-style-1" data-carousel-margin="7" data-carousel-nav="true" data-carousel-loop="true"
     data-carousel-items="4">

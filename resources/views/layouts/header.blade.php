@@ -22,8 +22,8 @@
                             <ul class="au-navbar-menu">
                                 <li class="drop">
                                     <a href="{{ url('/') }}">Home</a>
-                                    <ul class="drop-menu bottom-right">
-                                        {{-- <li>
+                                    {{-- <ul class="drop-menu bottom-right">
+                                        <li>
                                             <a href="index.html">Home Page v1</a>
                                         </li>
                                         <li>
@@ -40,8 +40,8 @@
                                         </li>
                                         <li>
                                             <a href="index5.html">Home Page v6</a>
-                                        </li> --}}
-                                    </ul>
+                                        </li>
+                                    </ul> --}}
                                 </li>
                                 <li>
                                     <a href="{{ url('/blog') }}">Who we are</a>
@@ -209,7 +209,7 @@
                                 <li class="drop">
                                     <a href="{{ url('/') }}">Home</a>
                                     <ul class="drop-menu bottom-right">
-                                        <li>
+                                        {{-- <li>
                                             <a href="index.html">Home Page v1</a>
                                         </li>
                                         <li>
@@ -226,7 +226,7 @@
                                         </li>
                                         <li>
                                             <a href="index5.html">Home Page v6</a>
-                                        </li>
+                                        </li> --}}
                                     </ul>
                                 </li>
                                 <li>
@@ -352,7 +352,7 @@
                                 <i></i>
                             </span>
                             <ul class="drop-menu bottom-right">
-                                <li>
+                                {{-- <li>
                                     <a href="index.html">Home Page v1</a>
                                 </li>
                                 <li>
@@ -369,7 +369,7 @@
                                 </li>
                                 <li>
                                     <a href="index5.html">Home Page v6</a>
-                                </li>
+                                </li> --}}
                             </ul>
                         </li>
                         <li>
