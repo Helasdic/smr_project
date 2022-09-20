@@ -22,7 +22,7 @@
     <ul class="au-navbar-menu">
         <li class="drop">
             <a href="{{ url('/') }}">Home</a>
-            <span class="arrow">
+            {{-- <span class="arrow">
                 <i></i>
             </span>
             <ul class="drop-menu bottom-right">
@@ -44,7 +44,7 @@
                 <li>
                     <a href="index5.html">Home Page v6</a>
                 </li>
-            </ul>
+            </ul> --}}
         </li>
         <li>
             <a href="about-v3.html">Who we are</a>
