@@ -49,7 +49,7 @@
                             <div class="contact-list">
                                 <ul>
                                     <li> <a class="fa fa-map-marker text-white"
-                                            href="https://goo.gl/maps/ciU78eRYaMs1Fnwh7"></a> Address: Jl. A.Yani No.2,
+                                            href="https://goo.gl/maps/P23YZnbcxZDcJMSs5"></a> Address: Jl. A.Yani No.2,
                                         1st floor,
                                         Marga Jaya, Kec. Bekasi Sel., Kota Bks,
                                         Jawa Barat 17141</li>
