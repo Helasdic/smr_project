@@ -1,6 +1,6 @@
 <div class="p-b-15">
     <div class="heading-section heading-section-1 dark">
-        <h3>Our Partner</h3>
+        <h3>Mitra Kami</h3>
     </div>
 </div>
 <div class="owl-carousel dark nav-style-1" data-carousel-margin="30" data-carousel-nav="true" data-carousel-loop="true"
