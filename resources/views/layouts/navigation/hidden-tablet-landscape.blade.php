@@ -53,7 +53,7 @@
                     </div>
                 </div>
                 <div class="icon-box icon-box-1">
-                    <div class="icon">
+                    <div class="icon"href="https://goo.gl/maps/P23YZnbcxZDcJMSs5">
                         <i class="icon_pin"></i>
                     </div>
                     <div class="content">
