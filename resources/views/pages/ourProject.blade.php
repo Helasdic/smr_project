@@ -5,22 +5,22 @@
     data-carousel-items="4">
     <div class="image-card image-card-3">
         <div class="image">
-            <img src="assets/images/projects-01.jpg" alt="Business growth solutions" />
+            <img src="assets/images/projects-05.jpg" alt="Business growth solutions" />
         </div>
         <h3 class="title">
             <a href="#">
-                <span>Business growth solutions</span>
+                <span>Pendampingan Pemeriksaan Pajak</span>
                 <i class="fa fa-chevron-right"></i>
             </a>
         </h3>
     </div>
     <div class="image-card image-card-3">
         <div class="image">
-            <img src="assets/images/projects-02.jpg" alt="Complex consumer behavior" />
+            <img src="assets/images/projects-06.jpg" alt="Complex consumer behavior" />
         </div>
         <h3 class="title">
             <a href="#">
-                <span>Complex consumer behavior</span>
+                <span>Perencanaan Pajak Bulanan</span>
                 <i class="fa fa-chevron-right"></i>
             </a>
         </h3>
@@ -31,7 +31,7 @@
         </div>
         <h3 class="title">
             <a href="#">
-                <span>Experience in finance</span>
+                <span>Pelaporan Pajak Pribadi</span>
                 <i class="fa fa-chevron-right"></i>
             </a>
         </h3>
@@ -42,25 +42,25 @@
         </div>
         <h3 class="title">
             <a href="#">
-                <span>Global consumer insights</span>
+                <span>Pelaporan Pajak Perusahaan</span>
                 <i class="fa fa-chevron-right"></i>
             </a>
         </h3>
     </div>
-    <div class="image-card image-card-3">
+    {{-- <div class="image-card image-card-3">
         <div class="image">
-            <img src="assets/images/projects-05.jpg" alt="Business growth solutions" />
+            <img src="assets/images/projects-01.jpg" alt="Business growth solutions" />
         </div>
         <h3 class="title">
             <a href="#">
-                <span>Business growth solutions</span>
+                <span></span>
                 <i class="fa fa-chevron-right"></i>
             </a>
         </h3>
     </div>
     <div class="image-card image-card-3">
         <div class="image">
-            <img src="assets/images/projects-06.jpg" alt="Complex consumer behavior" />
+            <img src="assets/images/projects-02.jpg" alt="Complex consumer behavior" />
         </div>
         <h3 class="title">
             <a href="#">
@@ -90,5 +90,5 @@
                 <i class="fa fa-chevron-right"></i>
             </a>
         </h3>
-    </div>
+    </div> --}}
 </div>

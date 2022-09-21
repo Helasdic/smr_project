@@ -7,7 +7,7 @@
             <h3>Laporan Tepat Waktu</h3>
         </div>
         <div class="content">
-            <p>Laporan yang tepat sesuai aturan yang berlaku.</p>
+            <p>Laporan pajak bulanan atau tahunan yang tepat waktu untuk menghindari sanksi administrasi akibat keterlambatan pelaporan pajak bulanan atau tahunan.</p>
         </div>
     </div>
 </div>
@@ -17,10 +17,10 @@
             <i class="fa fa-money"></i>
         </div>
         <div class="title">
-            <h3>Biaya yang Terjangkau</h3>
+            <h3>Perencanaan Pajak</h3>
         </div>
         <div class="content">
-            <p>Menyesuaikan tingkat omset dan pendapatan agar biaya realistis dan efisien
+            <p>Memperhitungkan dan menyiapkan pembayaran pajak sesuai peraturan yang berlaku agar tidak timbul sanksi atau denda yang justru memperbesar pengeluaran pajak.
             </p>
         </div>
     </div>
@@ -34,7 +34,7 @@
             <h3>Tim yang Profesional</h3>
         </div>
         <div class="content">
-            <p>Didukung oleh tim yang kompeten dalam bidang perpajakan dan keuangan
+            <p>Didukung oleh beberapa tim yang kompeten dalam bidang perpajakan yang terdaftar di Direktorat Jenderal Pajak.
             </p>
         </div>
     </div>
@@ -48,7 +48,7 @@
             <h3>Komunikasi yang Fleksibel</h3>
         </div>
         <div class="content">
-            <p>Jaingan komunikasi yang lancar dalam proses kerja dan penyelesaian masalah</p>
+            <p>Jaringan komunikasi yang lancar dalam proses kerja dan penyelesaian masalah untuk mempermudah dalam hal pelaporan dan konsultasi pajak.</p>
         </div>
     </div>
 </div>

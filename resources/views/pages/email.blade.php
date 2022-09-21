@@ -1,6 +1,6 @@
 <div class="container">
-    <p class="text-block text-grey text-med m-b-45 text-center p-l-100 p-r-100">If you need to speak to us about a
-        general query fill in the form below and we will call you back within the same working day.</p>
+    <p class="text-block text-grey text-med m-b-45 text-center p-l-100 p-r-100">Jika Anda perlu berbicara dengan kami tentang
+        pertanyaan perpajakan isi formulir di bawah ini dan kami akan menghubungi Anda kembali dalam hari kerja yang sama.</p>
     <div class="au-form-group">
         <div class="au-form-col-3 p-r-5">
             <div class="au-select">
