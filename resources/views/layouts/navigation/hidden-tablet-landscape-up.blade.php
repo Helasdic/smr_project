@@ -160,7 +160,7 @@
         </div>
         <div class="icon-box icon-box-1">
             <div class="icon">
-                <i class="icon_pin"></i>
+                <a href="https://goo.gl/maps/ciU78eRYaMs1Fnwh7"><i class="icon_pin"></i></a>
             </div>
             <div class="content">
                 <p>Jl. A.Yani No.2, 1st floor, Marga Jaya,</p>
