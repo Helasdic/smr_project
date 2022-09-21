@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'b5242f10e3afa85741935f57056279669993f563',
+        'reference' => '2824f86286e7ce81c49a4c2829d135830475e46a',
         'name' => 'laravel/laravel',
         'dev' => true,
     ),
@@ -388,7 +388,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'b5242f10e3afa85741935f57056279669993f563',
+            'reference' => '2824f86286e7ce81c49a4c2829d135830475e46a',
             'dev_requirement' => false,
         ),
         'laravel/pint' => array(
@@ -1249,15 +1249,6 @@
             'provided' => array(
                 0 => '2.3|3.0',
             ),
-        ),
-        'symfony/uid' => array(
-            'pretty_version' => 'v6.1.3',
-            'version' => '6.1.3.0',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../symfony/uid',
-            'aliases' => array(),
-            'reference' => 'ea2ccf0fdb88c83e626105b68e5bab5c132d812b',
-            'dev_requirement' => false,
         ),
         'symfony/var-dumper' => array(
             'pretty_version' => 'v6.1.3',
