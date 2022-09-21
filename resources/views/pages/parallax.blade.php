@@ -22,10 +22,10 @@
         <div class="col-md-3 col-sm-3">
             <div class="number-box light">
                 <span class="number">
-                    <span class="counterUp">100</span>
-                    <span class="sub">%</span>
+                    <span class="counterUp">225</span>
+                    {{-- <span class="sub">%</span> --}}
                 </span>
-                <span class="title">Kepuasan customer</span>
+                <span class="title">Projek Selesai</span>
             </div>
         </div>
     </div>
