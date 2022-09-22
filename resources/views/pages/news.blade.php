@@ -1,5 +1,5 @@
 <div class="heading-section heading-section-1 dark">
-    <h3>Mengapa Harus Kami</h3>
+    <h3>Detail Jasa Kami</h3>
 </div>
 <div class="owl-carousel dark nav-style-1" data-carousel-margin="45" data-carousel-nav="true" data-carousel-loop="true">
     <div class="image-card image-card-4">
@@ -14,7 +14,7 @@
             <span>July 22, 2018</span>
         </div> --}}
         <h3 class="title">
-            <a href="#">Memberikan jasa pembuatan laporan pajak bulanan, dan tahunan</a>
+            <a href="#">Konsultasi dan perencanaan pajak. Dalam hal perencanaan kami akan membantu bisnis mencapai tujuan keuangan dan bisnis anda.</a>
         </h3>
         {{-- <div class="content">
             <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
@@ -35,7 +35,9 @@
             <span>July 18, 2018</span>
         </div> --}}
         <h3 class="title">
-            <a href="#">Membantu menyelesaikan laporan pajak terkait pembayaran </a>
+            <a href="#">Perencanaan Pajak<br></a>
+            <a href="#">Layanan ini adalah untuk melakukan jasa perencanaan pajak yang bertujuan mengoptimalkan keuntungan klien.
+                Selain itu, layanan ini juga membantu dalam mempersiapkan dan mengurus data yang berhubungan dengan pajak dan akan dilaporkan sesuai dengan ketetapan perpajakan.</a>
         </h3>
         {{-- <div class="content">
             <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
