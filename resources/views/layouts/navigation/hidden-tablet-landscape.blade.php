@@ -53,13 +53,15 @@
                     </div>
                 </div>
                 <div class="icon-box icon-box-1">
-                    <div class="icon"href="https://goo.gl/maps/P23YZnbcxZDcJMSs5">
-                        <i class="icon_pin"></i>
-                    </div>
-                    <div class="content">
-                        <p>Jl. A.Yani No.2, 1st floor, Marga Jaya,</p>
-                        <p>Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141</p>
-                    </div>
+                    <a href="https://goo.gl/maps/ciU78eRYaMs1Fnwh7" class="text-black">
+                        <div class="icon">
+                            <i class="icon_pin"></i>
+                        </div>
+                        <div class="content">
+                            <p>Jl. A.Yani No.2, 1st floor, Marga Jaya,</p>
+                            <p>Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141</p>
+                        </div>
+                    </a>
                 </div>
                 {{-- <div class="icon-box icon-box-1">
                     <div class="icon">

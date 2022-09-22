@@ -177,6 +177,17 @@ small {
   font-size: 13px;
 }
 
+/* btn custom */
+.btn-green {
+  background-color: #27ae60;
+  color: #fff;
+}
+
+.btn-green:hover {
+  background-color: #2ecc71;
+  color: #fff;
+}
+
 /*	Blockquotes  */
 /* #Links
 ================================================== */
@@ -3648,6 +3659,10 @@ textarea:focus {
   margin-left: 20px;
 }
 
+.m-l-27 {
+  margin-left: 27px;
+}
+
 .m-20 {
   margin: 20px;
 }
@@ -3808,6 +3823,10 @@ textarea:focus {
   margin-left: 40px;
 }
 
+.m-l-46 {
+  margin-left: 46px;
+}
+
 .m-40 {
   margin: 40px;
 }
@@ -3822,6 +3841,18 @@ textarea:focus {
 
 .p-t-45 {
   padding-top: 45px;
+}
+
+.mt-58 {
+  margin-top: 58px;
+}
+
+.mt-85 {
+  margin-top: 85px;
+}
+
+.l-h-28 {
+  line-height: 28px;
 }
 
 .p-r-45 {
