@@ -7,33 +7,33 @@
                     <div class="col-md-6">
                         <div class="footer-block-1">
                             <div class="logo">
-                                <img src="{{ asset('assets/images/Paten1 (2).png') }}" alt="Consulting" />
+                                <img src="assets/images/icons/ic-logo-02.png" alt="Consulting" />
                             </div>
                             <div class="quick-link">
                                 <div class="row">
                                     <div class="col-md-6 col-sm-6">
                                         <ul>
                                             <li>
-                                                <a href="#">Business Consulting</a>
+                                                <a href="#">Konsultasi Bisnis</a>
                                             </li>
                                             <li>
-                                                <a href="#">Investments Management</a>
+                                                <a href="#">Manajemen Perpajakan</a>
                                             </li>
                                             <li>
-                                                <a href="#">Taxes Planning</a>
+                                                <a href="#">Perencanaan Pajak</a>
                                             </li>
                                         </ul>
                                     </div>
                                     <div class="col-md-6 col-sm-6">
-                                        <ul>
+                                        <ul>    
                                             <li>
-                                                <a href="#">Insurance Consulting</a>
+                                                <a href="#">Pemeriksaan Pajak</a>
                                             </li>
                                             <li>
-                                                <a href="#">Retement stragies</a>
+                                                <a href="#">Strategi Bisnis</a>
                                             </li>
                                             <li>
-                                                <a href="#">Business Loan</a>
+                                                <a href="#">Keuntungan Bisnis</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -92,7 +92,7 @@
             <div class="container">
                 <div class="block-inner p-t-35 p-b-60">
                     <div class="block-left">
-                        <span>© 2022 Created By By</span>
+                        <span>© 2022 Created By SMR Konsultan</span>
                     </div>
                     <div class="block-right">
                         <div class="quick-link">

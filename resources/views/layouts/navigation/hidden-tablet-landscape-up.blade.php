@@ -155,7 +155,7 @@
             </div>
             <div class="content">
                 <p>021-29462443</p>
-                <p>konsultan-smr@gmail.com</p>
+                <p>konsultansmr@gmail.com</p>
             </div>
         </div>
         <div class="icon-box icon-box-1">

@@ -14,7 +14,7 @@
             <span>July 22, 2018</span>
         </div> --}}
         <h3 class="title">
-            <a href="#">Konsultasi dan perencanaan pajak. Dalam hal perencanaan kami akan membantu bisnis mencapai tujuan keuangan dan bisnis anda.</a>
+            <a href="#">Konsultasi dan perencanaan pajak dalam hal perencanaan kami akan membantu bisnis mencapai tujuan keuangan dan bisnis anda.</a>
         </h3>
         {{-- <div class="content">
             <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
@@ -35,9 +35,8 @@
             <span>July 18, 2018</span>
         </div> --}}
         <h3 class="title">
-            <a href="#">Perencanaan Pajak<br></a>
-            <a href="#">Layanan ini adalah untuk melakukan jasa perencanaan pajak yang bertujuan mengoptimalkan keuntungan klien.
-                Selain itu, layanan ini juga membantu dalam mempersiapkan dan mengurus data yang berhubungan dengan pajak dan akan dilaporkan sesuai dengan ketetapan perpajakan.</a>
+            <a href="#">Aturan Perpajakan<br></a>
+            <a href="#">Aturan perpajakan yang selalu update sehingga memudahkan klien untuk mengetahui terkait aturan yg berlaku</a>
         </h3>
         {{-- <div class="content">
             <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
@@ -57,7 +56,7 @@
             <span>July 12, 2018</span>
         </div> --}}
         <h3 class="title">
-            <a href="#">Jasa penyelesaian laporan pajak melalui media yang disediakan oleh Dirjen Pajak Indonesia
+            <a href="#">Jasa penyelesaian laporan pajak melalui media yang disediakan oleh Direktorat Jenderal Pajak
             </a>
         </h3>
         {{-- <div class="content">
@@ -78,7 +77,7 @@
             <span>July 22, 2018</span>
         </div> --}}
         <h3 class="title">
-            <a href="#">Jasa Penyelesaian dan atau maintenance terkait permasalahan perpajakan perusahaan</a>
+            <a href="#">Jasa Audit Pajak dan atau maintenance terkait permasalahan perpajakan perusahaan</a>
         </h3>
         {{-- <div class="content">
             <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
@@ -99,7 +98,7 @@
             <span>July 18, 2018</span>
         </div> --}}
         <h3 class="title">
-            <a href="#">Jasa Konsultasi perpajakan Lainnya </a>
+            <a href="#">Jasa Konsultasi perpajakan Lainnya seperti Restitusi Pajak dan Pengurusan Klarifikasi atas Surat Teguran Pajak</a>
         </h3>
         {{-- <div class="content">
             <p>Phasellus lorem enim, luctus ut velit eget, convallis egestas eros. Sed ornare ligula
