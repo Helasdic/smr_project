@@ -27,7 +27,8 @@
                     </i>
                 </div>
                 <div class="text-center">
-                    <a href="#" class="btn btn-green mt-85">Start from 3.500.000</a>
+                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-green mt-85">Start
+                        from 3.500.000</a>
                 </div>
             </div>
         </div>
