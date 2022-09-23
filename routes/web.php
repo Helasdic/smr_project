@@ -21,15 +21,9 @@ Route::prefix('/')->group(function () {
     Route::get('/', function () {
         return redirect('/konsultan-pajak');
     });
-    Route::get('/single-blog', function () {
-        return view('service.blog-single');
-    });
     Route::get('/blog', function () {
         return view('about.about');
     });
-    // Route::get('/services', function () {
-    //     return view('service.our-service');
-    // });
     Route::get('/contact', function () {
         return view('pages.contact');
     });
