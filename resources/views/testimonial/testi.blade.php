@@ -56,7 +56,8 @@
                     </i>
                 </div>
                 <div class="text-center">
-                    <a href="#" class="btn au-btn-primary mt-58">Start from 1.500.000</a>
+                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn au-btn-primary mt-58">Start
+                        from 1.500.000</a>
                 </div>
             </div>
         </div>
@@ -93,7 +94,8 @@
                     </i>
                 </div>
                 <div class="text-center">
-                    <a href="#" class="btn btn-danger m-t-40">Start from 5.000.000</a>
+                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-danger m-t-40">Start from
+                        5.000.000</a>
                 </div>
             </div>
         </div>
