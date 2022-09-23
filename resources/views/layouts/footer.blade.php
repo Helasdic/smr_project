@@ -7,7 +7,7 @@
                     <div class="col-md-6">
                         <div class="footer-block-1">
                             <div class="logo">
-                                <img src="assets/images/icons/ic-logo-02.png" alt="Consulting" />
+                                <img src="assets/images/logofooter.png" alt="Consulting" />
                             </div>
                             <div class="quick-link">
                                 <div class="row">
