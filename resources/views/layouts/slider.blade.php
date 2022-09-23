@@ -5,13 +5,13 @@
         <h3 class="tp-caption tp-resizeme caption-1"
             data-frames="[{&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:900,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:500,&quot;to&quot;:&quot;y:-50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power2.easeIn&quot;}]"
             data-x="['center']" data-hoffset="['0', '0', '0', '0']" data-y="['middle']" data-voffset="['-100']"
-            data-width="['770', '770', '770', '480']">KONSULTASIKAN PAJAK ANDA
+            data-width="['770', '770', '770', '480']">KONSULTAN PAJAK REGISTER
         </h3>
         <div class="tp-caption tp-resizeme caption-2"
             data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
             data-x="['center']" data-hoffset="['0', '0', '0', '0']" data-y="['center']"
             data-voffset="['0', '0', '0', '40']" data-width="['770', '770', '770', '480']">
-            Konsultasikan Masalah Perpajakan Anda Kepada Kami.</div>
+            Kami Adalah Konsultan Pajak Teregister Di Direktorat Jenderal Pajak.</div>
         <div class="tp-caption tp-resizeme caption-3"
             data-frames="[{&quot;delay&quot;:2000,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
             data-responsive="on" data-x="['center']" data-hoffset="['0', '0', '0', '0']" data-y="['center']"
@@ -26,12 +26,12 @@
         <h3 class="tp-caption tp-resizeme caption-1"
             data-frames="[{&quot;from&quot;:&quot;y:50px;opacity:0;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:900,&quot;ease&quot;:&quot;Power4.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:500,&quot;to&quot;:&quot;y:-50px;opacity:0;&quot;,&quot;ease&quot;:&quot;Power2.easeIn&quot;}]"
             data-x="['center']" data-hoffset="['0', '0', '0', '0']" data-y="['middle']" data-voffset="['-100']"
-            data-width="['770', '770', '770', '480']">KONSULTAN PAJAK REGISTER</h3>
+            data-width="['770', '770', '770', '480']">KONSULTASIKAN PAJAK ANDA</h3>
         <div class="tp-caption tp-resizeme caption-2"
             data-frames="[{&quot;delay&quot;:1000,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
             data-x="['center']" data-hoffset="['0', '0', '0', '0']" data-y="['center']"
             data-voffset="['0', '0', '0', '40']" data-width="['770', '770', '770', '480']">
-            Kami Adalah Konsultan Pajak Teregister Di Direktorat Jenderal Pajak.</div>
+            Konsultasikan Permasalahan Pajak Anda Kepada Kami Yang Kompeten Di Bidangnya.</div>
         <div class="tp-caption tp-resizeme caption-3"
             data-frames="[{&quot;delay&quot;:2000,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
             data-responsive="on" data-x="['center']" data-hoffset="['0', '0', '0', '0']" data-y="['center']"
