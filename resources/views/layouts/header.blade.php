@@ -44,7 +44,7 @@
                                     </ul> --}}
                                 </li>
                                 <li>
-                                    <a href="{{ url('/') }}">Who we are</a>
+                                    <a href="{{ url('/konsultan-pajak') }}">Who we are</a>
                                 </li>
                                 <li class="drop">
                                     <a href="/">Services</a>

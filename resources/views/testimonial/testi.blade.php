@@ -27,7 +27,8 @@
                     </i>
                 </div>
                 <div class="text-center">
-                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-green mt-85">Start
+                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-green mt-85"><i
+                            class="fa fa-whatsapp"></i> &nbsp;Start
                         from 3.500.000</a>
                 </div>
             </div>
@@ -56,7 +57,8 @@
                     </i>
                 </div>
                 <div class="text-center">
-                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn au-btn-primary mt-58">Start
+                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn au-btn-primary mt-58"><i
+                            class="fa fa-whatsapp"></i> &nbsp;Start
                         from 1.500.000</a>
                 </div>
             </div>
@@ -94,8 +96,9 @@
                     </i>
                 </div>
                 <div class="text-center">
-                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-danger m-t-40">Start from
-                        5.000.000</a>
+                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn au-btn-primary mt-58"><i
+                            class="fa fa-whatsapp"></i> &nbsp; Start
+                        from 1.500.000</a>
                 </div>
             </div>
         </div>

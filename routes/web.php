@@ -17,7 +17,10 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::prefix('/')->group(function () {
-    Route::get('/', [BaseController::class, 'index']);
+    Route::get('/konsultan-pajak', [BaseController::class, 'index']);
+    Route::get('/', function () {
+        return redirect('/konsultan-pajak');
+    });
     Route::get('/single-blog', function () {
         return view('service.blog-single');
     });

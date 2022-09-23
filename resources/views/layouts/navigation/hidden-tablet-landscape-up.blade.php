@@ -1,7 +1,7 @@
 <div class="top-header">
     <div class="container-fluid">
         <div class="logo">
-            <a href="{{ url('/') }}">
+            <a href="{{ url('/konsultan-pajak') }}">
                 <img src="{{ asset('/assets/images/Paten2.png') }}" alt="Consulting" />
             </a>
         </div>
@@ -21,7 +21,7 @@
 <div class="au-navbar-mobile navbar-mobile-1">
     <ul class="au-navbar-menu">
         <li class="drop">
-            <a href="{{ url('/') }}">Home</a>
+            <a href="{{ url('/konsultan-pajak') }}">Home</a>
             {{-- <span class="arrow">
                 <i></i>
             </span>

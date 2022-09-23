@@ -35,7 +35,7 @@
     <div class="container">
         <div class="block-left">
             <div class="logo">
-                <a href="{{ url('/') }}">
+                <a href="{{ url('/konsultan-pajak') }}">
                     <img src="{{ asset('assets/images/Paten2.png') }}" alt="Consulting" style="width: 200"
                         height="70" />
                 </a>
