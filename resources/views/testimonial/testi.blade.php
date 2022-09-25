@@ -3,8 +3,39 @@
 </div>
 {{-- buat card untuk harga --}}
 
-<div class="owl-carousel dark nav-style-1" data-carousel-margin="30" data-carousel-nav="true" data-carousel-loop="true"
-    data-carousel-autoplay="true">
+<div class="owl-carousel">
+    <div class="image-card image-card-2">
+        <div class="card-top text-center">
+            <span class="text-large"><i class="fa fa-user"></i></span>
+        </div>
+        <div class="card-body">
+            <div class="content">
+                <div class="text-center">
+                    <span class="text-bold">
+                        laporan pajak orang pribadi
+                    </span>
+                </div>
+                <div class="d-flex">
+                    {{-- icon ceklis --}}
+                    <i class="fa fa-check">
+                        <span class="m-t-5 m-l-27">perhitungan pajak bulanan/tahunan</span>
+                    </i>
+                    <i class="fa fa-check">
+                        <span class="m-t-5 m-l-27"> konsultasi pajak</span>
+                    </i>
+                    <i class="fa fa-check">
+                        <span class="m-t-5 m-l-27"> pelaporan pajak tahunan
+                        </span>
+                    </i>
+                </div>
+                <div class="text-center">
+                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-gradient-blue mt-58"><i
+                            class="fa fa-whatsapp"></i> &nbsp;Start
+                        from 1.500.000</a>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="image-card image-card-2">
         <div class="card-top text-center">
             <span class="text-large"><i class="fa fa-calculator"></i></span>
@@ -27,39 +58,9 @@
                     </i>
                 </div>
                 <div class="text-center">
-                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-green mt-85"><i
+                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-gradient-green mt-58"><i
                             class="fa fa-whatsapp"></i> &nbsp;Start
                         from 3.500.000</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="image-card image-card-2">
-        <div class="card-top text-center">
-            <span class="text-large"><i class="fa fa-user"></i></span>
-        </div>
-        <div class="card-body">
-            <div class="content">
-                <div class="text-center">
-                    <span class="text-bold">Pendampingan Restitusi Pajak & Pemeriksaan</span>
-                </div>
-                <div class="d-flex">
-                    {{-- icon ceklis --}}
-                    <i class="fa fa-check">
-                        <span class="m-t-5 m-l-27">perhitungan pajak bulanan/tahunan</span>
-                    </i>
-                    <i class="fa fa-check">
-                        <span class="m-t-5 m-l-27"> konsultasi pajak</span>
-                    </i>
-                    <i class="fa fa-check">
-                        <span class="m-t-5 m-l-27"> pelaporan pajak tahunan
-                        </span>
-                    </i>
-                </div>
-                <div class="text-center">
-                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn au-btn-primary mt-58"><i
-                            class="fa fa-whatsapp"></i> &nbsp;Start
-                        from 1.500.000</a>
                 </div>
             </div>
         </div>
@@ -71,7 +72,8 @@
         <div class="card-body">
             <div class="content">
                 <div class="text-center">
-                    <span class="text-bold">Pendampingan restitusi pajak & pemeriksaan
+                    <span class="text-bold">
+                        Pendampingan Restitusi Pajak & Pemeriksaan
                     </span>
                 </div>
                 <div class="d-flex">
@@ -96,9 +98,9 @@
                     </i>
                 </div>
                 <div class="text-center">
-                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn au-btn-primary mt-58"><i
+                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-gradient-orange"><i
                             class="fa fa-whatsapp"></i> &nbsp; Start
-                        from 1.500.000</a>
+                        from 5.000.000</a>
                 </div>
             </div>
         </div>
