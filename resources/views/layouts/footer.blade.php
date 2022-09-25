@@ -25,7 +25,7 @@
                                         </ul>
                                     </div>
                                     <div class="col-md-6 col-sm-6">
-                                        <ul>    
+                                        <ul>
                                             <li>
                                                 <a href="#">Pemeriksaan Pajak</a>
                                             </li>
@@ -53,8 +53,8 @@
                                         1st floor,
                                         Marga Jaya, Kec. Bekasi Sel., Kota Bks,
                                         Jawa Barat 17141</li>
-                                    <li>Phone: 021-29462443</li>
-                                    <li>Email: konsultan-smr@gmail.com</li>
+                                    <li>Phone: 021-29462443 / +6281290296779</li>
+                                    <li>Email: konsultansmr@gmail.com</li>
                                 </ul>
                             </div>
                         </div>

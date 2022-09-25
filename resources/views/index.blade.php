@@ -63,11 +63,11 @@
             </div>
         </div>
     </section>
-    <section class="section bg-grey-light p-t-70 p-b-70">
+    {{-- <section class="section bg-grey-light p-t-70 p-b-70">
         <div class="container">
             <div class="relative">
                 @include('pages.ourPartners')
             </div>
         </div>
-    </section>
+    </section> --}}
 @endsection

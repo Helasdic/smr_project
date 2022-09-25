@@ -3,32 +3,6 @@
         <div class="block-left">
             <p class="text-block">We are experts in consulting services and solutions</p>
         </div>
-        <div class="block-right">
-            <div class="chosen-lang m-r-25">
-                <select class="chosen-select">
-                    <option value="2" selected="">English</option>
-                    <option value="3">Germany</option>
-                    <option value="4">Italy</option>
-                </select>
-            </div>
-            <ul class="horizontal-list">
-                <li class="social-item-1">
-                    <a class="fa fa-facebook"></a>
-                </li>
-                <li class="social-item-1">
-                    <a class="fa fa-twitter"></a>
-                </li>
-                <li class="social-item-1">
-                    <a class="fa fa-google-plus"></a>
-                </li>
-                <li class="social-item-1">
-                    <a class="fa fa-linkedin"></a>
-                </li>
-                <li class="social-item-1">
-                    <a class="fa fa-instagram"></a>
-                </li>
-            </ul>
-        </div>
     </div>
 </div>
 <div class="header header-1">
