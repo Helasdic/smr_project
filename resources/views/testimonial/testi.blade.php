@@ -3,7 +3,7 @@
 </div>
 {{-- buat card untuk harga --}}
 
-<div class="owl-carousel">
+<div class="owl-carousel dark nav-style-1" data-carousel-margin="30" data-carousel-nav="true" data-carousel-loop="true">
     <div class="image-card image-card-2">
         <div class="card-top text-center">
             <span class="text-large"><i class="fa fa-user"></i></span>
@@ -29,7 +29,7 @@
                     </i>
                 </div>
                 <div class="text-center">
-                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-gradient-blue mt-58"><i
+                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-gradient-blue mt-80"><i
                             class="fa fa-whatsapp"></i> &nbsp;Start
                         from 1.500.000</a>
                 </div>
@@ -58,7 +58,7 @@
                     </i>
                 </div>
                 <div class="text-center">
-                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-gradient-green mt-58"><i
+                    <a href="https://api.whatsapp.com/send?phone=6281290296779" class="btn btn-gradient-green mt-80"><i
                             class="fa fa-whatsapp"></i> &nbsp;Start
                         from 3.500.000</a>
                 </div>
