@@ -89,7 +89,8 @@
                             pembayaran pajak (restitusi)</span>
                     </i>
                     <i class="fa fa-check">
-                        <span class="m-t-5 m-l-27"> pendampingan atas klarifikasi SP2DK
+                        <span class="m-t-5 m-l-27"> pendampingan atas klarifikasi <br><span
+                                class="m-l-45 l-h-27">SP2DK</span>
                         </span>
                     </i>
                     <i class="fa fa-check">
