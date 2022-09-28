@@ -47,7 +47,7 @@
             </ul> --}}
         </li>
         <li>
-            <a href="about-v3.html">Who we are</a>
+            <a href="#">Who we are</a>
         </li>
         <li class="drop">
             <a href="#">Services</a>
@@ -58,60 +58,9 @@
                 <li class="drop">
                     <a href="#">Services List</a>
                     <ul class="drop-menu top-right">
-                        <li>
-                            <a href="services-v1.html">Services List v1</a>
-                        </li>
-                        <li>
-                            <a href="services-v2.html">Services List v2</a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="drop">
-                    <a href="#">Services Details</a>
-                    <ul class="drop-menu top-right">
-                        <li>
-                            <a href="service-v1.html">Services Details v1</a>
-                        </li>
-                        <li>
-                            <a href="service-v2.html">Services Details v2</a>
-                        </li>
                     </ul>
                 </li>
             </ul>
-        </li>
-        <li>
-            <a href="testinmonials.html">Testinmonials</a>
-        </li>
-        <li class="drop">
-            <a href="#">Projects</a>
-            <span class="arrow">
-                <i></i>
-            </span>
-            <ul class="drop-menu bottom-right">
-                <li>
-                    <a href="portfolios.html">Projects List</a>
-                </li>
-                <li>
-                    <a href="portfolio-single.html">Projects Details</a>
-                </li>
-            </ul>
-        </li>
-        <li class="drop">
-            <a href="#">News</a>
-            <span class="arrow">
-                <i></i>
-            </span>
-            <ul class="drop-menu bottom-right">
-                <li>
-                    <a href="blogs.html">News List</a>
-                </li>
-                <li>
-                    <a href="blog-single.html">News Details</a>
-                </li>
-            </ul>
-        </li>
-        <li>
-            <a href="contact.html">Contact Us</a>
         </li>
         <li class="drop">
             <a href="#">Pages</a>
@@ -119,30 +68,6 @@
                 <i></i>
             </span>
             <ul class="drop-menu bottom-right">
-                <li>
-                    <a href="about-v1.html">About Page v1</a>
-                </li>
-                <li>
-                    <a href="about-v2.html">About Page v2</a>
-                </li>
-                <li>
-                    <a href="about-v3.html">About Page v3</a>
-                </li>
-                <li>
-                    <a href="about-history.html">About History</a>
-                </li>
-                <li>
-                    <a href="about-partnerships.html">About Partnerships</a>
-                </li>
-                <li>
-                    <a href="about-leadership.html">About Leadership</a>
-                </li>
-                <li>
-                    <a href="about-teammember.html">About Teammember</a>
-                </li>
-                <li>
-                    <a href="about-careers.html">About Careers</a>
-                </li>
             </ul>
         </li>
     </ul>
@@ -154,7 +79,7 @@
                 <i class="icon_phone"></i>
             </div>
             <div class="content">
-                <p>021-29462443</p>
+                <p>021-29462443/+6281290296779</p>
                 <p>konsultansmr@gmail.com</p>
             </div>
         </div>
