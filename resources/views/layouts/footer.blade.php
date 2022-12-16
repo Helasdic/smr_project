@@ -54,7 +54,7 @@
                                         Marga Jaya, Kec. Bekasi Sel., Kota Bks,
                                         Jawa Barat 17141</li>
                                     <li>Phone: 021-29462443 / +6281290296779</li>
-                                    <li>Email: konsultansmr@gmail.com</li>
+                                    <li>Email: konsultansmr01@gmail.com</li>
                                 </ul>
                             </div>
                         </div>

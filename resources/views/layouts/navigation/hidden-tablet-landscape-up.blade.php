@@ -80,7 +80,7 @@
             </div>
             <div class="content">
                 <p>021-29462443/+6281290296779</p>
-                <p>konsultansmr@gmail.com</p>
+                <p>konsultansmr01@gmail.com</p>
             </div>
         </div>
         <div class="icon-box icon-box-1">
@@ -88,8 +88,8 @@
                 <a href="https://goo.gl/maps/ciU78eRYaMs1Fnwh7"><i class="icon_pin"></i></a>
             </div>
             <div class="content">
-                <p>Jl. A.Yani No.2, 1st floor, Marga Jaya,</p>
-                <p>Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141</p>
+                <p>Lagoon Premium Office Lt UG Unit 33, Lagoon Avenue Mall Bekasi, Kawasan Grand Kamala </p>
+                <p>Lagoon, Jl.Chandrabhaga RT 006 RW 003, Pekayon Jaya, Bekasi. 17148</p>
             </div>
         </div>
         <div class="icon-box icon-box-1">
