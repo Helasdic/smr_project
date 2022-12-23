@@ -6,9 +6,9 @@
             <div class="au-select">
                 <select class="chosen-select">
                     <option value="1" disabled selected>How can we help? *</option>
-                    <option value="2">Option 1</option>
-                    <option value="3">Option 2</option>
-                    <option value="4">Option 3</option>
+                    <option value="2">Konsultasi Pajak</option>
+                    <option value="3">Aplikasi Perpajakan</option>
+                    <option value="4">List Detail</option>
                 </select>
             </div>
         </div>
