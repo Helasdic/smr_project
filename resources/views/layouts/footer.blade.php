@@ -54,7 +54,7 @@
                                         Lagoon, Jl.Chandrabhaga RT 006 RW 003, Pekayon Jaya, Bekasi. 17148
                                     </li>
                                     <li>Phone: 021-29462443 / +6281290296779</li>
-                                    <li>Email: konsultansmr01@gmail.com</li>
+                                    <li>Email: konsultan.smr01@gmail.com</li>
                                 </ul>
                             </div>
                         </div>

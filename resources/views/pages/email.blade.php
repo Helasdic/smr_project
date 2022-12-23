@@ -19,7 +19,7 @@
             <input class="au-input" type="text" placeholder="Phone Number: *">
         </div>
         <div class="au-form-col-3">
-            <input class="au-input-submit au-btn au-btn-primary au-btn-large btn-block" type="submit" value="Submit">
+            <a class="au-input-submit au-btn au-btn-primary au-btn-large btn-block text-center" href="mailto:konsultan.smr01@gmail.com">Send Email</a>
         </div>
     </div>
 </div>
