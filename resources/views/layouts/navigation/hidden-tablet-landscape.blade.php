@@ -22,18 +22,18 @@
                         <i class="icon_phone"></i>
                     </div>
                     <div class="content">
-                        <p>021-29462443/+6281290296779</p>
-                        <p>konsultansmr01@gmail.com</p>
+                        <p>081290296779</p>
+                        <p>konsultan.smr01@gmail.com</p>
                     </div>
                 </div>
                 <div class="icon-box icon-box-1">
-                    <a href="https://goo.gl/maps/ciU78eRYaMs1Fnwh7" class="text-black">
+                    <a href="https://goo.gl/maps/Xx4iXjx3hRmWGHkq7" class="text-black">
                         <div class="icon">
                             <i class="icon_pin"></i>
                         </div>
                         <div class="content">
-                            <p>Lagoon Premium Office Lt UG Unit 33, Lagoon Avenue Mall Bekasi, Kawasan Grand Kamala </p>
-                            <p>Lagoon, Jl.Chandrabhaga RT 006 RW 003, Pekayon Jaya, Bekasi. 17148</p>
+                            <p>Lagoon Premium Office Lt UG Unit 33, Mall Bekasi</p>
+                            <p>Jl.Chandrabhaga Pekayon Jaya, Bekasi. 17148</p>
                         </div>
                     </a>
                 </div>
@@ -46,7 +46,7 @@
                         <p>Every Day</p>
                     </div>
                 </div> --}}
-                <a class="hidden-tablet-landscape au-btn au-btn-primary" href="#">Get A Quote</a>
+                <a class="hidden-tablet-landscape au-btn au-btn-primary" href="mailto:konsultan.smr01@gmail.com">Send Email</a>
             </div>
         </div>
     </div>
