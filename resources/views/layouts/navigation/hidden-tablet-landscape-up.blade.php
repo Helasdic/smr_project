@@ -85,22 +85,15 @@
         </div>
         <div class="icon-box icon-box-1">
             <div class="icon">
-                <a href="https://goo.gl/maps/ciU78eRYaMs1Fnwh7"><i class="icon_pin"></i></a>
+                <i class="icon_pin">
+                    <a href="https://goo.gl/maps/Xx4iXjx3hRmWGHkq7"></a>
+                </i>
             </div>
             <div class="content">
-                <p>Lagoon Premium Office Lt UG Unit 33, Lagoon Avenue Mall Bekasi, Kawasan Grand Kamala </p>
-                <p>Lagoon, Jl.Chandrabhaga RT 006 RW 003, Pekayon Jaya, Bekasi. 17148</p>
+                <p>Lagoon Premium Office Lt UG Unit 33, Lagoon Avenue Mall Bekasi,</p>
+                <p>Jl.Chandrabhaga RT 006 RW 003, Pekayon Jaya, Bekasi. 17148</p>
             </div>
         </div>
-        <div class="icon-box icon-box-1">
-            <div class="icon">
-                <i class="icon_clock"></i>
-            </div>
-            <div class="content">
-                <p>09:30 am – 06:00 pm</p>
-                <p>Every Day</p>
-            </div>
-        </div>
-        <a class=" au-btn au-btn-primary" href="mailto:konsultan.smr01@gmail.com">Send Email</a>
+        <a class="au-btn au-btn-primary m-b-10" href="mailto:konsultan.smr01@gmail.com">Send Email</a>
     </div>
 </div>
