@@ -80,19 +80,28 @@
             </div>
             <div class="content">
                 <p>021-29462443/+6281290296779</p>
-                <p>konsultansmr01@gmail.com</p>
+                <p>konsultan.smr01@gmail.com</p>
             </div>
         </div>
-        <div class="icon-box icon-box-1">
+        {{-- <div class="icon-box icon-box-1">
+            <a href="https://goo.gl/maps/Xx4iXjx3hRmWGHkq7"><i class="icon_pin"></i></a>
             <div class="icon">
-                <i class="icon_pin">
-                    <a href="https://goo.gl/maps/Xx4iXjx3hRmWGHkq7"></a>
-                </i>
             </div>
             <div class="content">
                 <p>Lagoon Premium Office Lt UG Unit 33, Lagoon Avenue Mall Bekasi,</p>
                 <p>Jl.Chandrabhaga RT 006 RW 003, Pekayon Jaya, Bekasi. 17148</p>
             </div>
+        </div> --}}
+        <div class="icon-box icon-box-1">
+            <a href="https://goo.gl/maps/Xx4iXjx3hRmWGHkq7" class="text-black">
+                <div class="icon">
+                    <i class="icon_pin"></i>
+                </div>
+                <div class="content">
+                    <p>Lagoon Premium Office Lt UG Unit 33, Lagoon Avenue Mall Bekasi,</p>
+                    <p>Jl.Chandrabhaga RT 006 RW 003, Pekayon Jaya, Bekasi. 17148</p>
+                </div>
+            </a>
         </div>
         <a class="au-btn au-btn-primary m-b-10" href="mailto:konsultan.smr01@gmail.com">Send Email</a>
     </div>

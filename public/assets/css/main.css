@@ -3629,6 +3629,10 @@ textarea:focus {
   padding-left: 10px;
 }
 
+.icon i {
+  margin-top: 12px;
+}
+
 .m-b-10 {
   margin-bottom: 10px;
 }
