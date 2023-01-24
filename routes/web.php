@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\BaseController;
 use Illuminate\Support\Facades\Route;
 
@@ -27,4 +28,7 @@ Route::prefix('/')->group(function () {
     Route::get('/contact', function () {
         return view('pages.contact');
     });
+
+    // Auth
+    Route::get('/admin', [LoginController::class, 'viewLogin']);
 });
