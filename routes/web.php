@@ -31,4 +31,5 @@ Route::prefix('/')->group(function () {
 
     // Auth
     Route::get('/admin', [LoginController::class, 'viewLogin']);
+    Route::post('/admin', [LoginController::class, 'login'])->name('login');
 });

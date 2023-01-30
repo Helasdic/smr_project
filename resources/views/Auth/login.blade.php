@@ -29,10 +29,11 @@
         <div class="container-login100">
             <div class="wrap-login100">
                 <div class="login100-pic js-tilt" data-tilt>
-                    <img src="{{ asset('assets/images/img-01.png') }}" alt="IMG">
+                    <img src="{{ asset('assets/images/PATEN.png') }}" alt="IMG">
                 </div>
 
-                <form class="login100-form validate-form">
+                <form class="login100-form validate-form" action="{{ route('login') }}" method="POST">
+                    @csrf
                     <span class="login100-form-title">
                         Admin Login
                     </span>
