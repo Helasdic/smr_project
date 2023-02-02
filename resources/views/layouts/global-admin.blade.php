@@ -10,7 +10,7 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
     {{-- my css --}}
-    <link rel="stylesheet" href="/css/admin/style.css" type="text/css">
+    <link rel="stylesheet" href="{{ asset('assets/css/admin/style.css') }}" type="text/css">
     {{-- font google --}}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -41,7 +41,7 @@
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src="https://unpkg.com/boxicons@2.1.1/dist/boxicons.js"></script>
-    <script src="/js/admin/navbar.js"></script>
+    <script src="{{ asset('assets/js/admin/navbar.js') }}"></script>
     @yield('script')
     @stack('scripts')
 </body>

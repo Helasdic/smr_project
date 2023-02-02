@@ -7,8 +7,8 @@
     <div class="container-fluid">
         <div class="row justify-content-start">
             <div class="col g-0">
-                @include('layouts.admin.sidebar')
-                @include('layouts.admin.navbar')
+                @include('layouts.sidebar')
+                @include('layouts.navbar')
             </div>
         </div>
     </div>

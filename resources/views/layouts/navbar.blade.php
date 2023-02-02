@@ -31,12 +31,12 @@
                 @endif
                 <ul class="dropdown-menu dropdown-menu-dark text-small shadow  m-phone dropdown-phone"
                     aria-labelledby="dropdownUser1">
-                    <li><a class="dropdown-item"
+                    {{-- <li><a class="dropdown-item"
                             href="{{ route('admin-AnbQR.change-password.index', Auth::user()->name) }}">Change
                             Password</a></li>
                     <li>
                         <hr class="dropdown-divider">
-                    </li>
+                    </li> --}}
                     <form action="{{ route('logout') }}" method="POST">
                         @csrf
                         <button class="dropdown-item" style="cursor:pointer">Sign Out</button>
@@ -61,7 +61,5 @@
             </div>
         @endif
     </div>
-    @include('layouts.admin.card')
-
     {{-- end card --}}
 </div>

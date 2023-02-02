@@ -23,9 +23,17 @@ class LoginController extends Controller
         ]);
 
         if (auth()->attempt(['email' => $request->email, 'password' => $request->password])) {
-            return redirect()->route('home');
+            return redirect()->route('dashboard');
         }
 
         return redirect()->back()->withInput($request->only('email', 'remember'));
+    }
+
+
+    // create function logout
+    public function logout()
+    {
+        auth()->logout();
+        return redirect()->route('login');
     }
 }
