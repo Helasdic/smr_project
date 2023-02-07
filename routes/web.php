@@ -3,7 +3,9 @@
 use App\Http\Controllers\Admin\DashboardController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\BaseController;
+use App\Http\Controllers\ProductController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Storage;
 
 /*
 |--------------------------------------------------------------------------
@@ -56,19 +58,28 @@ Route::prefix('/')->group(function () {
         Route::get('/contact', function () {
             return view('pages.contact');
         });
+        Route::middleware('guest')->group(function () {
+            Route::get('/admin', [LoginController::class, 'viewLogin']);
+            Route::post('/login', [LoginController::class, 'login'])->name('login');
+        });
 
-        // Auth
-        Route::get('/admin', [LoginController::class, 'viewLogin']);
-        Route::post('/admin', [LoginController::class, 'login'])->name('login');
-
+        // create view login /admin 
         // prefix admin middleware auth
         Route::prefix('/admin')->middleware('auth')->group(function () {
-            Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
-            Route::get('/logout', [LoginController::class, 'logout'])->name('logout');
+
+            // prefix dashboard
+            Route::prefix('/dashboard')->group(function () {
+                Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
+                Route::get('/create', [DashboardController::class, 'create'])->name('create');
+                Route::get('/download/{id}', [DashboardController::class, 'download'])->name('download');
+                // store data
+                Route::post('/store', [ProductController::class, 'store'])->name('store');
+                // edit data
+                Route::get('/edit/{id}', [ProductController::class, 'edit'])->name('edit');
+                // update data
+                Route::put('/update/{id}', [ProductController::class, 'update'])->name('update');
+            });
+            Route::post('/logout', [LoginController::class, 'logout'])->name('logout');
         });
     });
-
-    // // Auth
-    // Route::get('/admin', [LoginController::class, 'viewLogin']);
-    // Route::post('/admin', [LoginController::class, 'login'])->name('login');
 });

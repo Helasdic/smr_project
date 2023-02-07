@@ -17,14 +17,14 @@
                 @if (Auth::user()->avatar != null)
                     <a href="#" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle"
                         id="dropdownUser1" data-bs-toggle="dropdown" aria-expanded="false"> <img
-                            src="{{ asset('storage/' . Auth::user()->avatar) }}" alt="" width="32"
+                            src="{{ asset('/assets/images/why-choose-us-01.jpg') }}" alt="" width="32"
                             height="32" class="rounded-circle me-2"> <strong
                             class="phone-style">{{ Auth::user()->name }}</strong>
                     </a>
                 @else
                     <a href="#" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle"
                         id="dropdownUser1" data-bs-toggle="dropdown" aria-expanded="false"> <img
-                            src="{{ asset('assets/img/admin-avatar.png') }}" alt="admin" width="32"
+                            src="{{ asset('/assets/images/why-choose-us-01.jpg') }}" alt="admin" width="32"
                             height="32" class="rounded-circle me-2"> <strong
                             class="phone-style">{{ Auth::user()->name }}</strong>
                     </a>
