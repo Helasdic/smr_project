@@ -33,8 +33,8 @@
                             <input type="hidden" value="PUT" name="_method">
                             <label for="name">Name Product</label> <br>
                             @if ($product->name)
-                                <a href="{{ asset('storage/' . $product->name) }}">Current File</a> <br>
-                                <input type="file" name="name" accept="application/pdf,application/vnd.ms-excel" />
+                                <input type="file" name="name" accept="application/pdf,application/vnd.ms-excel"
+                                    value="{{ $product->name }}" />
                             @else
                                 <input type="file" name="name" accept="application/pdf,application/vnd.ms-excel" />
                             @endif

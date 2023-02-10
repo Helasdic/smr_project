@@ -37,7 +37,7 @@ class ProductController extends Controller
 
         $product->save();
 
-        return redirect()->route('dashboard')->with('success', 'Product created successfully.');
+        return redirect()->route('dashboard')->with('status', 'Product created successfully.');
     }
 
 
@@ -54,15 +54,14 @@ class ProductController extends Controller
         // validate form
         $this->validate($request, [
             // validate only pdf 
-            'name' => 'required|mimes:pdf|max:2048',
+            'name' => 'mimes:pdf|max:2048',
             'description' => 'required',
         ]);
         $product = Product::find($id);
-        $product->name = $request->name;
         $product->description = $request->description;
         $product->user_id = auth()->user()->id;
 
-        // jika ada file yang di upload maka gunakan file yang lama
+        // handle pdf
         if ($request->hasFile('name')) {
             $file = $request->file('name');
             $extension = $file->getClientOriginalExtension();
@@ -75,6 +74,14 @@ class ProductController extends Controller
         }
         $product->save();
 
-        return redirect()->route('dashboard')->with('success', 'Product updated successfully.');
+        return redirect()->route('dashboard')->with('status', 'Product updated successfully.');
+    }
+
+
+    public function destroy($id)
+    {
+        $product = Product::find($id);
+        $product->delete();
+        return redirect()->route('dashboard')->with('status', 'Product deleted successfully.');
     }
 }

@@ -21,7 +21,7 @@ use Illuminate\Support\Facades\Storage;
 
 
 Route::prefix('/')->group(function () {
-    Route::get('/konsultan-pajak', [BaseController::class, 'index']);
+    Route::get('/konsultan-pajak', [BaseController::class, 'index'])->name('home');
     Route::get('/', function () {
         return redirect('/konsultan-pajak');
     });
@@ -78,6 +78,9 @@ Route::prefix('/')->group(function () {
                 Route::get('/edit/{id}', [ProductController::class, 'edit'])->name('edit');
                 // update data
                 Route::put('/update/{id}', [ProductController::class, 'update'])->name('update');
+
+                // delete data
+                Route::delete('/delete/{id}', [ProductController::class, 'destroy'])->name('delete');
             });
             Route::post('/logout', [LoginController::class, 'logout'])->name('logout');
         });

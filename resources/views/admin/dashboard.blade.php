@@ -49,9 +49,9 @@
                                         class="btn btn-sm btn-success">Download</a>
                                     <a href="{{ route('edit', $product->id) }}"
                                         class="btn btn-sm btn-warning text-white">Edit</a>
-                                    <form action="#" method="POST" class="d-inline">
+                                    <form action="{{ route('delete', $product->id) }}" method="POST" class="d-inline">
                                         @csrf
-                                        <input type="hidden" value="" name="_method">
+                                        <input type="hidden" value="DELETE" name="_method">
                                         <input type="submit" class="btn btn-sm btn-danger" value="Delete">
                                     </form>
                                 </td>

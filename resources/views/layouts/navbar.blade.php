@@ -47,7 +47,7 @@
     </nav>
     <!--End Top Nav -->
     {{-- card --}}
-    <div class="col-md-5 text-start">
+    {{-- <div class="col-md-5 text-start">
         @if (session('status'))
             <div class="alert alert-danger alert-dismissible show fade" role="alert">
                 <button type="button" class="btn-close" data-dismiss="alert"></button>
@@ -60,6 +60,6 @@
                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
             </div>
         @endif
-    </div>
+    </div> --}}
     {{-- end card --}}
 </div>
