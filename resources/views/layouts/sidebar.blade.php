@@ -6,11 +6,13 @@
         <hr>
         <li class="nav-item"> <a href="{{ route('dashboard') }}"
                 class="nav-link {{ request()->is('konsultan-pajak/admin/dashboard*') ? 'actived' : '' }} text-white"
-                aria-current="page"> <i class="fa fa-home"></i><span class="ms-2">Home</span> </a> </li>
-        {{-- <li> <a href="#"
-                class="nav-link text-white {{ request()->is('admin-AnbQR/users*') ? 'actived' : '' }}"> <i
-                    class="fa fa-user-circle"></i><span class="ms-2">Manage User</span> </a> </li> --}}
+                aria-current="page"> <i class="fa fa-home"></i><span class="ms-2">Dashboard</span> </a> </li>
+        </li>
+        <li class="nav-item"> <a href="" class="nav-link mt-3 text-white" aria-current="page"> <i
+                    class="fa fa-book"></i><span class="ms-2">Daftarr Klien</span> </a> </li>
+        </li>
     </ul>
+
 </div>
 
 <!-- Main Wrapper -->
