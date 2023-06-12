@@ -3,6 +3,7 @@
 use App\Http\Controllers\Admin\DashboardController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\BaseController;
+use App\Http\Controllers\CompanyController;
 use App\Http\Controllers\ProductController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Storage;
@@ -81,6 +82,11 @@ Route::prefix('/')->group(function () {
 
                 // delete data
                 Route::delete('/delete/{id}', [ProductController::class, 'destroy'])->name('delete');
+            });
+
+            // prefix klient
+            Route::prefix('/klient')->group(function () {
+                Route::get('/', [CompanyController::class, 'index'])->name('klient-dashboard');
             });
             Route::post('/logout', [LoginController::class, 'logout'])->name('logout');
         });

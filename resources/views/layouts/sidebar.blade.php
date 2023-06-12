@@ -8,10 +8,24 @@
                 class="nav-link {{ request()->is('konsultan-pajak/admin/dashboard*') ? 'actived' : '' }} text-white"
                 aria-current="page"> <i class="fa fa-home"></i><span class="ms-2">Dashboard</span> </a> </li>
         </li>
-        <li class="nav-item"> <a href="" class="nav-link mt-3 text-white" aria-current="page"> <i
+        {{-- <li class="nav-item"> <a href="" class="nav-link mt-3 text-white" aria-current="page"> <i
                     class="fa fa-book"></i><span class="ms-2">Daftarr Klien</span> </a> </li>
+        </li> --}}
+
+        {{-- create dropdown submenu  --}}
+        <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle text-white" id="navbarDropdown" role="button"
+                data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fa fa-book"></i><span class="ms-2">Klien</span>
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="{{ route('klient-dashboard') }}">Daftar Klien</a></li>
+                <li><a class="dropdown-item" href="#">Klien</a></li>
+                <li><a class="dropdown-item" href="#">Klien</a></li>
+            </ul>
         </li>
-    </ul>
+        {{-- end create dropdown submenu  --}}
+
 
 </div>
 
