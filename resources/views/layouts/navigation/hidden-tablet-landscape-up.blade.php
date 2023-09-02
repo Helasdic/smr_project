@@ -79,7 +79,7 @@
                 <i class="icon_phone"></i>
             </div>
             <div class="content">
-                <p>021-29462443/+6281290296779</p>
+                <p>021-29462443/08568844299</p>
                 <p>konsultan.smr01@gmail.com</p>
             </div>
         </div>

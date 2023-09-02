@@ -53,7 +53,7 @@
                                         Office Lt UG Unit 33, Lagoon Avenue Mall Bekasi, Kawasan Grand Kamala
                                         Lagoon, Jl.Chandrabhaga RT 006 RW 003, Pekayon Jaya, Bekasi. 17148
                                     </li>
-                                    <li>Phone: 021-29462443 / +6281290296779</li>
+                                    <li>Phone: 021-29462443 / 08568844299</li>
                                     <li>Email: konsultan.smr01@gmail.com</li>
                                 </ul>
                             </div>

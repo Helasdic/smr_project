@@ -22,7 +22,7 @@
                         <i class="icon_phone"></i>
                     </div>
                     <div class="content">
-                        <p>081290296779</p>
+                        <p>08568844299</p>
                         <p>konsultan.smr01@gmail.com</p>
                     </div>
                 </div>
@@ -46,7 +46,8 @@
                         <p>Every Day</p>
                     </div>
                 </div> --}}
-                <a class="hidden-tablet-landscape au-btn au-btn-primary" href="mailto:konsultan.smr01@gmail.com">Send Email</a>
+                <a class="hidden-tablet-landscape au-btn au-btn-primary" href="mailto:konsultan.smr01@gmail.com">Send
+                    Email</a>
             </div>
         </div>
     </div>
