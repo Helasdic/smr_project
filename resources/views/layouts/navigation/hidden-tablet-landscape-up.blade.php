@@ -93,13 +93,13 @@
             </div>
         </div> --}}
         <div class="icon-box icon-box-1">
-            <a href="https://goo.gl/maps/Xx4iXjx3hRmWGHkq7" class="text-black">
+            <a href="https://maps.app.goo.gl/V4cDgLV2yqtpcRkz5" class="text-black">
                 <div class="icon">
                     <i class="icon_pin"></i>
                 </div>
                 <div class="content">
-                    <p>Lagoon Premium Office Lt UG Unit 33, Lagoon Avenue Mall Bekasi,</p>
-                    <p>Jl.Chandrabhaga RT 006 RW 003, Pekayon Jaya, Bekasi. 17148</p>
+                    <p>jl wibawa mukti 2 no 62c, Jatiasih</p>
+                    <p>Kota Bekasi 17423</p>
                 </div>
             </a>
         </div>

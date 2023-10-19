@@ -18,15 +18,17 @@
         </div>
     </div>
 
-    <section class="section why-choose-us-section-1  p-b-75 bg-cover js-waypoint"
-        style="background: url(&quot;assets/images/why-choose-us-01.jpg&quot;) center center no-repeat;">
+    <section class="section why-choose-us-section-1 p-300 bg-cover  js-waypoint"
+        style="background: url(&quot;assets/images/banner-new.jpg&quot;) center center no-repeat;">
+        {{-- style="background: url(&quot;assets/images/why-choose-us-01.jpg&quot;) center center no-repeat; --}}
         <div class="container">
             <div class="row">
                 @include('pages.whychooseus')
             </div>
         </div>
     </section>
-    <section class="section bg-grey-light p-t-70 p-b-50">
+    <section class="section bg-grey-light p-t-70 p-b-50 ">
+        {{-- bg-grey-light --}}
         <div class="container">
             <div class="relative section-testimonials-wrapper-1">
                 @include('testimonial.testi')

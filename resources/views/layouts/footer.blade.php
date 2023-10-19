@@ -49,9 +49,8 @@
                             <div class="contact-list">
                                 <ul>
                                     <li> <a class="fa fa-map-marker text-white"
-                                            href="https://goo.gl/maps/HkfzUet5mCZHfrpJ7"></a> Address: Lagoon Premium
-                                        Office Lt UG Unit 33, Lagoon Avenue Mall Bekasi, Kawasan Grand Kamala
-                                        Lagoon, Jl.Chandrabhaga RT 006 RW 003, Pekayon Jaya, Bekasi. 17148
+                                            href="https://maps.app.goo.gl/V4cDgLV2yqtpcRkz5"></a> Address: jl wibawa
+                                        mukti 2 no 62c, Jatiasih, Kota Bekasi 17423
                                     </li>
                                     <li>Phone: 021-29462443 / 08568844299</li>
                                     <li>Email: konsultan.smr01@gmail.com</li>

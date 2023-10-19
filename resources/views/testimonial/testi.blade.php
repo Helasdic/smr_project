@@ -4,14 +4,14 @@
 {{-- buat card untuk harga --}}
 
 <div class="owl-carousel dark nav-style-1" data-carousel-margin="30" data-carousel-nav="true" data-carousel-loop="true">
-    <div class="image-card image-card-2">
+    <div class="image-card image-card-2 ">
         <div class="card-top text-center">
             <span class="text-large"><i class="fa fa-user"></i></span>
         </div>
         <div class="card-body">
             <div class="content">
                 <div class="text-center">
-                    <span class="text-bold">
+                    <span class="text-bold ">
                         laporan pajak orang pribadi
                     </span>
                 </div>
@@ -36,7 +36,7 @@
             </div>
         </div>
     </div>
-    <div class="image-card image-card-2">
+    <div class="image-card image-card-2 ">
         <div class="card-top text-center">
             <span class="text-large"><i class="fa fa-calculator"></i></span>
         </div>
